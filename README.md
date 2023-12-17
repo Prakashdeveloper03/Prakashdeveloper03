@@ -89,7 +89,7 @@ if __name__ == "__main__":
   <a href="https://www.hackerrank.com/prakashdeveloper"><img src="https://img.shields.io/badge/Hackerrank-25A162?logo=hackerrank&logoColor=white"/></a>
   <a href="https://leetcode.com/Prakashdeveloper03/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=white"/></a>
   <a href="https://auth.geeksforgeeks.org/user/prakashdeveloper03/practice"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white"/></a>
-  <a href="https://prakashdeveloper03.github.io/"><img src="https://img.shields.io/badge/Website-grey?logo=About.me&logoColor=white"/></a>
+  <a href="https://prakashdeveloper03.github.io/"><img src="https://img.shields.io/badge/Website-202020?logo=About.me&logoColor=white"/></a>
 </p>
 
 <h2 align="left">🚀 Languages and Tools :</h2>
@@ -98,9 +98,9 @@ if __name__ == "__main__":
 
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-    <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26?logo=java&logoColor=white">
+     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26?logo=java&logoColor=white">
     <img alt="C++" src="https://img.shields.io/badge/C++-9C033A?logo=c%2B%2B&logoColor=white">
-    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white">
+    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-202020.svg?logo=JavaScript&logoColor=F7DF1E">
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white">
 </p>
 
@@ -173,7 +173,7 @@ if __name__ == "__main__":
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,ruby,c%23,r,ejs,vue,c,scss,css,elixir,scala,html,xml,Procfile,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,ruby,c%23,go,ejs,vue,c,scss,css,elixir,scala,html,xml,Procfile,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
