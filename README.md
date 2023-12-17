@@ -29,11 +29,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#3](https://github.com/Aravindambalavanan/Adventnet_Interview_Questions/issues/3) in [Aravindambalavanan/Adventnet_Interview_Questions](https://github.com/Aravindambalavanan/Adventnet_Interview_Questions)
-2. ❗ Opened issue [#6](https://github.com/Prakashdeveloper03/AI.ML/issues/6) in [Prakashdeveloper03/AI.ML](https://github.com/Prakashdeveloper03/AI.ML)
-3. ❗ Opened issue [#5](https://github.com/Prakashdeveloper03/AI.ML/issues/5) in [Prakashdeveloper03/AI.ML](https://github.com/Prakashdeveloper03/AI.ML)
-4. ❌ Closed PR [#37](https://github.com/Aravindambalavanan/Leetcode_Top_Interview_150/pull/37) in [Aravindambalavanan/Leetcode_Top_Interview_150](https://github.com/Aravindambalavanan/Leetcode_Top_Interview_150)
-5. ❌ Closed PR [#2](https://github.com/Aravindambalavanan/Adventnet_Interview_Questions/pull/2) in [Aravindambalavanan/Adventnet_Interview_Questions](https://github.com/Aravindambalavanan/Adventnet_Interview_Questions)
+1. ❗ Opened issue [#1](https://github.com/Prakashdeveloper03/A-50/issues/1) in [Prakashdeveloper03/A-50](https://github.com/Prakashdeveloper03/A-50)
+2. ❗ Opened issue [#7](https://github.com/Prakashdeveloper03/AI.ML/issues/7) in [Prakashdeveloper03/AI.ML](https://github.com/Prakashdeveloper03/AI.ML)
+3. 🔒 Closed issue [#3](https://github.com/Aravindambalavanan/Adventnet_Interview_Questions/issues/3) in [Aravindambalavanan/Adventnet_Interview_Questions](https://github.com/Aravindambalavanan/Adventnet_Interview_Questions)
+4. ❗ Opened issue [#6](https://github.com/Prakashdeveloper03/AI.ML/issues/6) in [Prakashdeveloper03/AI.ML](https://github.com/Prakashdeveloper03/AI.ML)
+5. ❗ Opened issue [#5](https://github.com/Prakashdeveloper03/AI.ML/issues/5) in [Prakashdeveloper03/AI.ML](https://github.com/Prakashdeveloper03/AI.ML)
 <!--END_SECTION:activity-->
 
 <h3>A little more about me...</h3>
