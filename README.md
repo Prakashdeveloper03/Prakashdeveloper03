@@ -20,7 +20,7 @@
 <h2>😉 About Me : </h2>
 
 - 🔭 I’m currently working on **Data Science**
-- 🌱 I’m currently learning **LLMs**
+- 🌱 I’m currently learning **PyTorch**
 - 👯 I’m looking to collaborate on **Machine Learning**
 - 😄 Pronouns : **Siva/Prakash**
 - ⚡ Fun fact : **I listen to music atleast 30 mins/day**
@@ -38,48 +38,61 @@
 
 <h3>A little more about me...</h3>
 
-```py
-import uvicorn
-from fastapi import FastAPI
-from datetime import datetime
-from typing import List, Dict
+```go
+package main
 
-app = FastAPI()
+import (
+    "net/http"
+    "time"
 
-@app.get("/api/details/name")
-async def get_name() -> Dict[str, str]:
-    return {"Name": "Siva Prakash"}
+    "github.com/labstack/echo/v4"
+)
 
-@app.get("/api/details/age")
-async def get_age() -> Dict[str, int]:
-    age: int = datetime.now().year - 2001
-    return {"Age": age}
+type College struct {
+    Name string `json:"college"`
+    Year []int  `json:"year"`
+}
 
-@app.get("/api/details/description")
-async def get_description() -> Dict[str, List[str]]:
-    description: List[str] = ["Passionate", "Optimistic", "Energetic", "Team Player"]
-    return {"Description": description}
+type Education struct {
+    School string `json:"school"`
+    Year   []int  `json:"year"`
+}
 
-@app.get("/api/details/education")
-async def get_education() -> Dict[str, List[Dict[str, str | List[int]]]]:
-    education: List[Dict[str, str | List[int]]] = [
-        {
-            "College": "College of Engineering, Guindy",
-            "Year": list(range(2022, 2025))
-        },
-        {
-            "College": "Apollo arts and science college",
-            "Year": list(range(2019, 2023))
-        },
-        {
-            "School": "Seventh Day Adventist Matriculation Higher Secondary School",
-            "Year": list(range(2017, 2020)),
-        },
-    ]
-    return {"Education": education}
+func main() {
+    app := echo.New()
 
-if __name__ == "__main__":
-    uvicorn.run(app, port=5000)
+    app.GET("/api/details/name", func(c echo.Context) error {
+        return c.JSON(http.StatusOK, map[string]string{
+            "Name": "Siva Prakash",
+        })
+    })
+
+    app.GET("/api/details/age", func(c echo.Context) error {
+        age := time.Now().Year() - 2001
+        return c.JSON(http.StatusOK, map[string]int{
+            "Age": age,
+        })
+    })
+
+    app.GET("/api/details/description", func(c echo.Context) error {
+        description := []string{"Passionate", "Optimistic", "Energetic", "Team Player"}
+        return c.JSON(http.StatusOK, map[string][]string{
+            "Description": description,
+        })
+    })
+
+    app.GET("/api/details/education", func(c echo.Context) error {
+        education := []interface{}{
+            College{Name: "College of Engineering, Guindy", Year: []int{2022, 2023, 2024}},
+            College{Name: "Apollo arts and science college", Year: []int{2019, 2020, 2021, 2022}},
+            Education{School: "Seventh Day Adventist Matriculation Higher Secondary School", Year: []int{2017, 2018, 2019}},
+        }
+        return c.JSON(http.StatusOK, map[string][]interface{}{
+            "Education": education,
+        })
+    })
+    app.Logger.Fatal(app.Start(":5000"))
+}
 ```
 
 <h2 align="left">📱 Connect with Me :</h2>
@@ -98,9 +111,9 @@ if __name__ == "__main__":
 
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26?logo=java&logoColor=white">
+    <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26?logo=java&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white">
     <img alt="C++" src="https://img.shields.io/badge/C++-9C033A?logo=c%2B%2B&logoColor=white">
-    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-202020.svg?logo=JavaScript&logoColor=F7DF1E">
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white">
 </p>
 
@@ -173,7 +186,7 @@ if __name__ == "__main__":
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,ruby,c%23,go,ejs,vue,c,scss,css,elixir,scala,html,xml,Procfile,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,ruby,c%23,r,ejs,vue,scss,c,css,elixir,scala,html,xml,Procfile,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
