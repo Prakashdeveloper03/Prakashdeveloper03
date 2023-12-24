@@ -5,7 +5,7 @@
  <img src="https://readme-typing-svg.demolab.com?lines=Data%20Science;Backend%20Development;Always%20learning&width=450&height=75&font=Ubuntu+Mono&weight=1000&pause=75&color=3ce3ce&center=true&size=19">
 </p>
 <h3 align="center">I'm an Tech Enthusiast from India ❤️</h3><br>
-<p align="center">I am a motivated student pursuing Master of computer applications from College of engineering, Guindy. After discovering my passion for analyzing data to extract useful information that can lead to data driven decision-making pushed me to the data science domain. And now currently I am working with some self paced mini-projects in the field of data science and backend development.</p><br>
+<p align="center">I am a driven student currently pursuing a Master of Computer Applications at the College of Engineering, Guindy. Discovered my passion for crafting data-driven applications, I naturally gravitated towards the dynamic realm of software engineering. Presently, I am engaged in self-paced mini-projects focusing on both data science and backend development, honing my skills and expanding my knowledge in these fields.</p><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-Welcome-white?style=flat&amp;logo=github&amp;color=3ce3ce" alt="PRs Welcome">
@@ -19,8 +19,8 @@
 
 <h2>😉 About Me : </h2>
 
-- 🔭 I’m currently working on **Data Science**
-- 🌱 I’m currently learning **PyTorch**
+- 🔭 I’m currently working on **Backend Development**
+- 🌱 I’m currently learning **Spring Boot**
 - 👯 I’m looking to collaborate on **Machine Learning**
 - 😄 Pronouns : **Siva/Prakash**
 - ⚡ Fun fact : **I listen to music atleast 30 mins/day**
@@ -130,7 +130,7 @@ func main() {
 ### 💥 Backend Development
 
 <p>
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
+    <img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=white">
     <img alt="Flask" src="https://img.shields.io/badge/Flask-202020?logo=flask&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
     <img alt="Express" src="https://img.shields.io/badge/Express%20JS-202020?logo=express&logoColor=white">
@@ -145,7 +145,6 @@ func main() {
     <img alt="ScikitLearn" src="https://img.shields.io/badge/ScikitLearn-0078D7?logo=scikit-learn&logoColor=white">
     <img alt="Opencv" src="https://img.shields.io/badge/OpenCV-2C2D72?logo=opencv&logoColor=white">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
     <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
 </p>
@@ -167,6 +166,7 @@ func main() {
     <img alt="Windows" src="https://img.shields.io/badge/Windows-%230079d5?logo=windows%2011&logoColor=white">
     <img alt="Ubundu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
+    <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white">
     <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white">
     <img alt="Sublime text" src="https://img.shields.io/badge/Sublime_Text-%23575757?logo=sublime-text&logoColor=important">
