@@ -121,9 +121,9 @@ internal partial class AppJsonSerializerContext : JsonSerializerContext { }
 
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=Ruby&logoColor=white">
     <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-512BD4?logo=cs&logoColor=white">
     <img alt="C++" src="https://img.shields.io/badge/C++-9C033A?logo=c%2B%2B&logoColor=white">
-    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white">
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white">
 </p>
 
@@ -141,7 +141,7 @@ internal partial class AppJsonSerializerContext : JsonSerializerContext { }
 
 <p>
     <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-202020?logo=flask&logoColor=white">
+    <img alt="Rails" src="https://img.shields.io/badge/Rails-D00000?logo=ruby-on-rails&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
     <img alt="Express" src="https://img.shields.io/badge/Express_JS-202020?logo=express&logoColor=white">
     <img alt="Node.js" src="https://img.shields.io/badge/Node_JS-339933?logo=nodedotjs&logoColor=white">
@@ -165,7 +165,6 @@ internal partial class AppJsonSerializerContext : JsonSerializerContext { }
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
     <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
-    <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=Supabase&logoColor=white">
     <img alt="Render" src="https://img.shields.io/badge/Render-4581C2?logo=render&logoColor=white">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-202020?logo=vercel&logoColor=white">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=Google-Cloud&logoColor=white">
@@ -197,7 +196,7 @@ internal partial class AppJsonSerializerContext : JsonSerializerContext { }
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,ruby,r,ejs,vue,scss,c,css,elixir,scala,html,java,xml,Procfile,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,r,ejs,vue,scss,c,css,elixir,scala,html,java,xml,Procfile,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
