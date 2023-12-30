@@ -20,7 +20,7 @@
 <h2>😉 About Me : </h2>
 
 - 🔭 I’m currently working on **Backend Development**
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **.NET**
 - 👯 I’m looking to collaborate on **Machine Learning**
 - 😄 Pronouns : **Siva/Prakash**
 - ⚡ Fun fact : **I listen to music atleast 30 mins/day**
@@ -38,61 +38,71 @@
 
 <h3>A little more about me...</h3>
 
-```go
-package main
+```cs
+using System;
+using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
-import (
-    "net/http"
-    "time"
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
 
-    "github.com/labstack/echo/v4"
-)
+var builder = WebApplication.CreateBuilder(args);
 
-type College struct {
-    Name string `json:"college"`
-    Year []int  `json:"year"`
-}
+builder.Services.ConfigureHttpJsonOptions(options =>
+{
+    options.SerializerOptions.TypeInfoResolverChain.Insert(0, AppJsonSerializerContext.Default);
+});
 
-type Education struct {
-    School string `json:"school"`
-    Year   []int  `json:"year"`
-}
+var app = builder.Build();
 
-func main() {
-    app := echo.New()
+var detailsApi = app.MapGroup("/api/details");
 
-    app.GET("/api/details/name", func(c echo.Context) error {
-        return c.JSON(http.StatusOK, map[string]string{
-            "Name": "Siva Prakash",
-        })
-    })
+detailsApi.MapGet("/name", () =>
+{
+    return Results.Ok("Siva Prakash");
+});
 
-    app.GET("/api/details/age", func(c echo.Context) error {
-        age := time.Now().Year() - 2001
-        return c.JSON(http.StatusOK, map[string]int{
-            "Age": age,
-        })
-    })
+detailsApi.MapGet("/age", () =>
+{
+    string age = (DateTime.Now.Year - 2001).ToString();
+    return Results.Ok(age);
+});
 
-    app.GET("/api/details/description", func(c echo.Context) error {
-        description := []string{"Passionate", "Optimistic", "Energetic", "Team Player"}
-        return c.JSON(http.StatusOK, map[string][]string{
-            "Description": description,
-        })
-    })
+detailsApi.MapGet("/description", () =>
+{
+    List<string> description = new List<string> { "Passionate", "Optimistic", "Energetic", "Team Player" };
+    return Results.Ok(description);
+});
 
-    app.GET("/api/details/education", func(c echo.Context) error {
-        education := []interface{}{
-            College{Name: "College of Engineering, Guindy", Year: []int{2022, 2023, 2024}},
-            College{Name: "Apollo arts and science college", Year: []int{2019, 2020, 2021, 2022}},
-            Education{School: "Seventh Day Adventist Matriculation Higher Secondary School", Year: []int{2017, 2018, 2019}},
-        }
-        return c.JSON(http.StatusOK, map[string][]interface{}{
-            "Education": education,
-        })
-    })
-    app.Logger.Fatal(app.Start(":5000"))
-}
+detailsApi.MapGet("/education", () =>
+{
+    List<Education> education = new List<Education>
+    {
+        new("College of Engineering, Guindy", new int[] { 2022, 2023, 2024 }),
+        new("Apollo arts and science college", new int[] { 2019, 2020, 2021, 2022 }),
+        new("Seventh Day Adventist Matriculation Higher Secondary School", new int[] { 2017, 2018, 2019 })
+    };
+    return Results.Ok(education);
+});
+
+app.UseExceptionHandler(error =>
+{
+    error.Run(async context =>
+    {
+        context.Response.StatusCode = (int)System.Net.HttpStatusCode.InternalServerError;
+        await context.Response.WriteAsJsonAsync(new { error = "Internal Server Error" });
+    });
+});
+
+app.Run();
+
+public record Education(string Name, int[] Year);
+
+[JsonSerializable(typeof(List<Education>))]
+[JsonSerializable(typeof(List<string>))]
+[JsonSerializable(typeof(string))]
+internal partial class AppJsonSerializerContext : JsonSerializerContext { }
 ```
 
 <h2 align="left">📱 Connect with Me :</h2>
@@ -111,9 +121,9 @@ func main() {
 
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-    <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26?logo=java&logoColor=white">
-    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white">
+    <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-512BD4?logo=cs&logoColor=white">
     <img alt="C++" src="https://img.shields.io/badge/C++-9C033A?logo=c%2B%2B&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white">
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white">
 </p>
 
@@ -130,11 +140,11 @@ func main() {
 ### 💥 Backend Development
 
 <p>
-    <img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=white">
+    <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
     <img alt="Flask" src="https://img.shields.io/badge/Flask-202020?logo=flask&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
-    <img alt="Express" src="https://img.shields.io/badge/Express%20JS-202020?logo=express&logoColor=white">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node%20JS-339933?logo=nodedotjs&logoColor=white">
+    <img alt="Express" src="https://img.shields.io/badge/Express_JS-202020?logo=express&logoColor=white">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node_JS-339933?logo=nodedotjs&logoColor=white">
 </p>
 
 ### 🧩 Data Science and Machine Learning
@@ -155,6 +165,7 @@ func main() {
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
     <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
+    <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=Supabase&logoColor=white">
     <img alt="Render" src="https://img.shields.io/badge/Render-4581C2?logo=render&logoColor=white">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-202020?logo=vercel&logoColor=white">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=Google-Cloud&logoColor=white">
@@ -166,10 +177,10 @@ func main() {
     <img alt="Windows" src="https://img.shields.io/badge/Windows-%230079d5?logo=windows%2011&logoColor=white">
     <img alt="Ubundu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
-    <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white">
     <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white">
     <img alt="Sublime text" src="https://img.shields.io/badge/Sublime_Text-%23575757?logo=sublime-text&logoColor=important">
+    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=Visual-Studio&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white">
 </p>
 
@@ -186,7 +197,7 @@ func main() {
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,ruby,c%23,r,ejs,vue,scss,c,css,elixir,scala,html,xml,Procfile,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,ruby,r,ejs,vue,scss,c,css,elixir,scala,html,java,xml,Procfile,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
