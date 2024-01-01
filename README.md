@@ -38,71 +38,39 @@
 
 <h3>A little more about me...</h3>
 
-```cs
-using System;
-using System.Collections.Generic;
-using System.Text.Json.Serialization;
+```
+import { Controller, Get } from '@nestjs/common';
 
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.Extensions.DependencyInjection;
+@Controller('api/details')
+export class DetailsController {
+  @Get('name')
+  getName() {
+    return 'Siva Prakash';
+  }
 
-var builder = WebApplication.CreateBuilder(args);
+  @Get('age')
+  getAge() {
+    const age = new Date().getFullYear() - 2001;
+    return age.toString();
+  }
 
-builder.Services.ConfigureHttpJsonOptions(options =>
-{
-    options.SerializerOptions.TypeInfoResolverChain.Insert(0, AppJsonSerializerContext.Default);
-});
+  @Get('description')
+  getDescription() {
+    const description = ['Passionate', 'Optimistic', 'Energetic', 'Team Player'];
+    return description;
+  }
 
-var app = builder.Build();
+  @Get('education')
+  getEducation() {
+    const education = [
+      { name: 'College of Engineering, Guindy', year: [2022, 2023, 2024] },
+      { name: 'Apollo arts and science college', year: [2019, 2020, 2021, 2022] },
+      { name: 'Seventh Day Adventist Matriculation Higher Secondary School', year: [2017, 2018, 2019] },
+    ];
+    return education;
+  }
+}
 
-var detailsApi = app.MapGroup("/api/details");
-
-detailsApi.MapGet("/name", () =>
-{
-    return Results.Ok("Siva Prakash");
-});
-
-detailsApi.MapGet("/age", () =>
-{
-    string age = (DateTime.Now.Year - 2001).ToString();
-    return Results.Ok(age);
-});
-
-detailsApi.MapGet("/description", () =>
-{
-    List<string> description = new List<string> { "Passionate", "Optimistic", "Energetic", "Team Player" };
-    return Results.Ok(description);
-});
-
-detailsApi.MapGet("/education", () =>
-{
-    List<Education> education = new List<Education>
-    {
-        new("College of Engineering, Guindy", new int[] { 2022, 2023, 2024 }),
-        new("Apollo arts and science college", new int[] { 2019, 2020, 2021, 2022 }),
-        new("Seventh Day Adventist Matriculation Higher Secondary School", new int[] { 2017, 2018, 2019 })
-    };
-    return Results.Ok(education);
-});
-
-app.UseExceptionHandler(error =>
-{
-    error.Run(async context =>
-    {
-        context.Response.StatusCode = (int)System.Net.HttpStatusCode.InternalServerError;
-        await context.Response.WriteAsJsonAsync(new { error = "Internal Server Error" });
-    });
-});
-
-app.Run();
-
-public record Education(string Name, int[] Year);
-
-[JsonSerializable(typeof(List<Education>))]
-[JsonSerializable(typeof(List<string>))]
-[JsonSerializable(typeof(string))]
-internal partial class AppJsonSerializerContext : JsonSerializerContext { }
 ```
 
 <h2 align="left">📱 Connect with Me :</h2>
@@ -121,9 +89,9 @@ internal partial class AppJsonSerializerContext : JsonSerializerContext { }
 
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=Ruby&logoColor=white">
-    <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-512BD4?logo=cs&logoColor=white">
+    <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-562DB4?logo=cs2&logoColor=white">
     <img alt="C++" src="https://img.shields.io/badge/C++-9C033A?logo=c%2B%2B&logoColor=white">
+    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-202020?logo=javascript&logoColor=F7DF1E">
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white">
 </p>
 
@@ -141,9 +109,9 @@ internal partial class AppJsonSerializerContext : JsonSerializerContext { }
 
 <p>
     <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
-    <img alt="Rails" src="https://img.shields.io/badge/Rails-D00000?logo=ruby-on-rails&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
-    <img alt="Express" src="https://img.shields.io/badge/Express_JS-202020?logo=express&logoColor=white">
+    <img alt="Nest.js" src="https://img.shields.io/badge/Nest_JS-E0234E?logo=NestJS&logoColor=white">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express_JS-202020?logo=express&logoColor=white">
     <img alt="Node.js" src="https://img.shields.io/badge/Node_JS-339933?logo=nodedotjs&logoColor=white">
 </p>
 
@@ -196,7 +164,7 @@ internal partial class AppJsonSerializerContext : JsonSerializerContext { }
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,r,ejs,vue,scss,c,css,elixir,scala,html,java,xml,Procfile,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,r,ejs,vue,scss,c,css,scala,java,elixir,html,ruby,xml,Procfile,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
