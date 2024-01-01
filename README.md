@@ -38,7 +38,7 @@
 
 <h3>A little more about me...</h3>
 
-```
+```js
 import { Controller, Get } from '@nestjs/common';
 
 @Controller('api/details')
