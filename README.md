@@ -38,39 +38,48 @@
 
 <h3>A little more about me...</h3>
 
-```js
-import { Controller, Get } from '@nestjs/common';
+```py
+import uvicorn
+from fastapi import FastAPI
+from datetime import datetime
+from typing import List, Dict
 
-@Controller('api/details')
-export class DetailsController {
-  @Get('name')
-  getName() {
-    return 'Siva Prakash';
-  }
+app = FastAPI()
 
-  @Get('age')
-  getAge() {
-    const age = new Date().getFullYear() - 2001;
-    return age.toString();
-  }
+@app.get("/api/details/name")
+async def get_name() -> Dict[str, str]:
+    return {"Name": "Siva Prakash"}
 
-  @Get('description')
-  getDescription() {
-    const description = ['Passionate', 'Optimistic', 'Energetic', 'Team Player'];
-    return description;
-  }
+@app.get("/api/details/age")
+async def get_age() -> Dict[str, int]:
+    age: int = datetime.now().year - 2001
+    return {"Age": age}
 
-  @Get('education')
-  getEducation() {
-    const education = [
-      { name: 'College of Engineering, Guindy', year: [2022, 2023, 2024] },
-      { name: 'Apollo arts and science college', year: [2019, 2020, 2021, 2022] },
-      { name: 'Seventh Day Adventist Matriculation Higher Secondary School', year: [2017, 2018, 2019] },
-    ];
-    return education;
-  }
-}
+@app.get("/api/details/description")
+async def get_description() -> Dict[str, List[str]]:
+    description: List[str] = ["Passionate", "Optimistic", "Energetic", "Team Player"]
+    return {"Description": description}
 
+@app.get("/api/details/education")
+async def get_education() -> Dict[str, List[Dict[str, str | List[int]]]]:
+    education: List[Dict[str, str | List[int]]] = [
+        {
+            "College": "College of Engineering, Guindy",
+            "Year": list(range(2022, 2025))
+        },
+        {
+            "College": "Apollo arts and science college",
+            "Year": list(range(2019, 2023))
+        },
+        {
+            "School": "Seventh Day Adventist Matriculation Higher Secondary School",
+            "Year": list(range(2017, 2020)),
+        },
+    ]
+    return {"Education": education}
+
+if __name__ == "__main__":
+    uvicorn.run(app, port=5000)
 ```
 
 <h2 align="left">📱 Connect with Me :</h2>
@@ -108,9 +117,9 @@ export class DetailsController {
 ### 💥 Backend Development
 
 <p>
-    <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
+    <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=Django&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
-    <img alt="Nest.js" src="https://img.shields.io/badge/Nest_JS-E0234E?logo=NestJS&logoColor=white">
     <img alt="Express.js" src="https://img.shields.io/badge/Express_JS-202020?logo=express&logoColor=white">
     <img alt="Node.js" src="https://img.shields.io/badge/Node_JS-339933?logo=nodedotjs&logoColor=white">
 </p>
@@ -121,7 +130,6 @@ export class DetailsController {
     <img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?logo=numpy&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?logo=pandas&logoColor=white">
     <img alt="ScikitLearn" src="https://img.shields.io/badge/ScikitLearn-0078D7?logo=scikit-learn&logoColor=white">
-    <img alt="Opencv" src="https://img.shields.io/badge/OpenCV-2C2D72?logo=opencv&logoColor=white">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">
     <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
@@ -146,6 +154,7 @@ export class DetailsController {
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white">
     <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white">
     <img alt="Sublime text" src="https://img.shields.io/badge/Sublime_Text-%23575757?logo=sublime-text&logoColor=important">
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=Visual-Studio&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white">
@@ -164,7 +173,7 @@ export class DetailsController {
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,r,ejs,vue,scss,c,css,scala,java,elixir,html,ruby,xml,Procfile,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,r,ejs,vue,scss,c,css,scala,elixir,html,ruby,xml,Procfile,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
