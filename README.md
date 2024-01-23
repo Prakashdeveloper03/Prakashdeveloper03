@@ -121,7 +121,6 @@ if __name__ == "__main__":
     <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?logo=Apache-Cassandra&logoColor=white">
     <img alt="TimescaleDB" src="https://img.shields.io/badge/TimescaleDB-EE4C2C?logo=Timescale&logoColor=white">
     <img alt="Neo4J" src="https://img.shields.io/badge/Neo4j-4581C3?logo=Neo4j&logoColor=white">
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?logo=Elasticsearch&logoColor=white">
 </p>
 
 ### ⛈️ Cloud Platforms
