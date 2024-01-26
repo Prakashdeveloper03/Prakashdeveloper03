@@ -2,10 +2,10 @@
 
 <h1 align="center"> வணக்கம் (Vanakkam), I am Siva Prakash </h1>
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?lines=Data%20Science;Backend%20Development;Always%20learning&width=450&height=75&font=Ubuntu+Mono&weight=1000&pause=75&color=3ce3ce&center=true&size=19">
+ <img src="https://readme-typing-svg.demolab.com?lines=Machine%20Learning;Backend%20Development;Always%20learning&width=450&height=75&font=Ubuntu+Mono&weight=1000&pause=75&color=3ce3ce&center=true&size=19">
 </p>
 <h3 align="center">I'm an Tech Enthusiast from India ❤️</h3><br>
-<p align="center">I am a driven student currently pursuing a Master of Computer Applications at the College of Engineering, Guindy. Discovered my passion for crafting data-driven applications, I naturally gravitated towards the dynamic realm of software engineering. Presently, I am engaged in self-paced mini-projects focusing on both data science and backend development, honing my skills and expanding my knowledge in these fields.</p><br>
+<p align="center">I am a driven student currently pursuing a Master of Computer Applications at the College of Engineering, Guindy. Discovered my passion for crafting data-driven applications, I naturally gravitated towards the dynamic realm of software engineering. Presently, I am engaged in self-paced mini-projects focusing on both machine learning and backend development, honing my skills and expanding my knowledge in these fields.</p><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-Welcome-white?style=flat&amp;logo=github&amp;color=3ce3ce" alt="PRs Welcome">
@@ -20,8 +20,8 @@
 <h2>😉 About Me : </h2>
 
 - 🔭 I’m currently working on **Backend Development**
-- 🌱 I’m currently learning **.NET**
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 🌱 I’m currently learning **Distributed Systems**
+- 👯 I’m looking to collaborate on **Backend Development**
 - 😄 Pronouns : **Siva/Prakash**
 - ⚡ Fun fact : **I listen to music atleast 30 mins/day**
 
@@ -98,9 +98,9 @@ if __name__ == "__main__":
 
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-    <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-562DB4?logo=cs2&logoColor=white">
-    <img alt="C++" src="https://img.shields.io/badge/C++-9C033A?logo=c%2B%2B&logoColor=white">
-    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-202020?logo=javascript&logoColor=F7DF1E">
+    <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26.svg?logo=java&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white">
+    <img alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white">
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white">
 </p>
 
@@ -117,9 +117,9 @@ if __name__ == "__main__":
 ### 💥 Backend Development
 
 <p>
-    <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white">
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=Django&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=white">
     <img alt="Express.js" src="https://img.shields.io/badge/Express_JS-202020?logo=express&logoColor=white">
     <img alt="Node.js" src="https://img.shields.io/badge/Node_JS-339933?logo=nodedotjs&logoColor=white">
 </p>
@@ -156,7 +156,6 @@ if __name__ == "__main__":
     <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white">
     <img alt="Sublime text" src="https://img.shields.io/badge/Sublime_Text-%23575757?logo=sublime-text&logoColor=important">
-    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=Visual-Studio&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white">
 </p>
 
@@ -173,7 +172,7 @@ if __name__ == "__main__":
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,r,ejs,vue,scss,c,css,scala,elixir,html,ruby,xml,Procfile,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,r,ejs,vue,scss,c,css,scala,c%23,html,ruby,xml,Procfile,c%2B%2B,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
