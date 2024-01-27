@@ -100,7 +100,7 @@ if __name__ == "__main__":
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26.svg?logo=java&logoColor=white">
     <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white">
-    <img alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white">
+    <img alt="Ocaml" src="https://img.shields.io/badge/OCaml-EC6813.svg?logo=OCaml&logoColor=white">
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white">
 </p>
 
@@ -110,7 +110,7 @@ if __name__ == "__main__":
     <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
     <img alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white">
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
+    <img alt="React.js" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-202020?logo=markdown&logoColor=white">
 </p>
 
@@ -153,6 +153,7 @@ if __name__ == "__main__":
     <img alt="Ubundu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white">
+    <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=white">
     <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white">
     <img alt="Sublime text" src="https://img.shields.io/badge/Sublime_Text-%23575757?logo=sublime-text&logoColor=important">
@@ -172,7 +173,7 @@ if __name__ == "__main__":
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,r,ejs,vue,scss,c,css,scala,c%23,html,ruby,xml,Procfile,c%2B%2B,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,r,ejs,ruby,scss,c,css,scala,c%23,html,elixir,xml,Procfile,c%2B%2B,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
