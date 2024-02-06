@@ -20,7 +20,7 @@
 <h2>😉 About Me : </h2>
 
 - 🔭 I’m currently working on **Backend Development**
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Natural Language Processing**
 - 👯 I’m looking to collaborate on **Machine Learning**
 - 😄 Pronouns : **Siva/Prakash**
 - ⚡ Fun fact : **I listen to music atleast 30 mins/day**
@@ -87,7 +87,7 @@ if __name__ == "__main__":
   <a href="mailto:thalapathysp25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/prakashdeveloper"><img src="https://img.shields.io/badge/Linkedin-0e76a8?logo=linkedin&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/prakashdeveloper"><img src="https://img.shields.io/badge/Hackerrank-25A162?logo=hackerrank&logoColor=white"/></a>
-  <a href="https://leetcode.com/Prakashdeveloper03/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=white"/></a>
+  <a href="https://leetcode.com/Prakashdeveloper03/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white"/></a>
   <a href="https://auth.geeksforgeeks.org/user/prakashdeveloper03/practice"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white"/></a>
   <a href="https://prakashdeveloper03.github.io/"><img src="https://img.shields.io/badge/Website-202020?logo=About.me&logoColor=white"/></a>
 </p>
@@ -98,10 +98,10 @@ if __name__ == "__main__":
 
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white">
+    <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-563D7C?logo=cs2&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26?logo=java&logoColor=white">
-    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-20232A?logo=javascript&logoColor=F7DF1E">
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node_JS-339933?logo=nodedotjs&logoColor=white">
 </p>
 
 ### 🕸️ Frontend Development
@@ -111,8 +111,6 @@ if __name__ == "__main__":
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=Bootstrap&logoColor=white">
     <img alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white">
-    <img alt="Alpine" src="https://img.shields.io/badge/Alpine-007ACC?logo=alpinedotjs&logoColor=white">
-    <img alt="Astro" src="https://img.shields.io/badge/Astro-F55B23?logo=astro&logoColor=white">
     <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-202020?logo=markdown&logoColor=white">
 </p>
@@ -120,11 +118,11 @@ if __name__ == "__main__":
 ### 💥 Backend Development
 
 <p>
+    <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next_JS-20232A?logo=nextdotjs&logoColor=white">
-    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white">
     <img alt="Express.js" src="https://img.shields.io/badge/Express_JS-202020?logo=express&logoColor=white">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node_JS-339933?logo=nodedotjs&logoColor=white">
 </p>
 
 ### 🧩 Data Science and Machine Learning
@@ -145,9 +143,9 @@ if __name__ == "__main__":
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
     <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFA116?logo=Firebase&logoColor=white">
     <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=Prisma&logoColor=white">
     <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=SQLAlchemy&logoColor=white">
-    <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=Supabase&logoColor=white">
 </p>
     
 ### ☁ Cloud & Devops
@@ -164,11 +162,10 @@ if __name__ == "__main__":
 <p>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-%230079d5?logo=windows%2011&logoColor=white">
     <img alt="Ubundu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
-    <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?logo=Fedora&logoColor=white">
-    <img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?logo=Firefox-Browser&logoColor=white">
     <img alt="Edge" src="https://img.shields.io/badge/Microsoft%20Edge-0078D7?logo=Microsoft-Edge&logoColor=white">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white">
+    <img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?logo=Firefox-Browser&logoColor=white">
     <img alt="Sublime text" src="https://img.shields.io/badge/Sublime_Text-%23575757?logo=sublime-text&logoColor=important">
+    <img alt="" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=Visual-Studio&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white">
 </p>
 
@@ -185,7 +182,7 @@ if __name__ == "__main__":
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,r,ejs,ruby,vue,c,css,scala,c%23,html,elixir,xml,scss,Procfile,sass,c%2B%2B,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,ejs,astro,mdx,vue,c,css,scala,c%23,html,elixir,xml,scss,Procfile,sass,c%2B%2B,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
