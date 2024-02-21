@@ -38,48 +38,59 @@
 
 <h3>A little more about me...</h3>
 
-```py
-import uvicorn
-from fastapi import FastAPI
-from datetime import datetime
-from typing import List, Dict
+```ts
+import express, { Request, Response } from "express";
+import { DateTime } from "luxon";
 
-app = FastAPI()
+const app = express();
 
-@app.get("/api/details/name")
-async def get_name() -> Dict[str, str]:
-    return {"Name": "Siva Prakash"}
+app.get("/name", (req: Request, res: Response) => {
+  res.json({ Name: "Siva Prakash" });
+});
 
-@app.get("/api/details/age")
-async def get_age() -> Dict[str, int]:
-    age: int = datetime.now().year - 2001
-    return {"Age": age}
+app.get("/age", (req: Request, res: Response) => {
+  const age: number = DateTime.now().year - 2001;
+  res.json({ Age: age });
+});
 
-@app.get("/api/details/description")
-async def get_description() -> Dict[str, List[str]]:
-    description: List[str] = ["Passionate", "Optimistic", "Energetic", "Team Player"]
-    return {"Description": description}
+app.get("/description", (req: Request, res: Response) => {
+  const description: string[] = [
+    "Passionate",
+    "Optimistic",
+    "Energetic",
+    "Team Player",
+  ];
+  res.json({ Description: description });
+});
 
-@app.get("/api/details/education")
-async def get_education() -> Dict[str, List[Dict[str, str | List[int]]]]:
-    education: List[Dict[str, str | List[int]]] = [
-        {
-            "College": "College of Engineering, Guindy",
-            "Year": list(range(2022, 2025))
-        },
-        {
-            "College": "Apollo arts and science college",
-            "Year": list(range(2019, 2023))
-        },
-        {
-            "School": "Seventh Day Adventist Matriculation Higher Secondary School",
-            "Year": list(range(2017, 2020)),
-        },
-    ]
-    return {"Education": education}
+app.get("/education", (req: Request, res: Response) => {
+  interface EducationItem {
+    College?: string;
+    School?: string;
+    Year: number[];
+  }
 
-if __name__ == "__main__":
-    uvicorn.run(app, port=5000)
+  const education: EducationItem[] = [
+    {
+      College: "College of Engineering, Guindy",
+      Year: Array.from({ length: 2024 - 2022 + 1 }, (_, i) => 2022 + i),
+    },
+    {
+      College: "Apollo arts and science college",
+      Year: Array.from({ length: 2022 - 2019 + 1 }, (_, i) => 2019 + i),
+    },
+    {
+      School: "Seventh Day Adventist Matriculation Higher Secondary School",
+      Year: Array.from({ length: 2019 - 2017 + 1 }, (_, i) => 2017 + i),
+    },
+  ];
+  res.json({ Education: education });
+});
+
+const PORT: number = parseInt(process.env.PORT || "5000");
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
+});
 ```
 
 <h2 align="left">📱 Connect with Me :</h2>
@@ -99,8 +110,8 @@ if __name__ == "__main__":
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26?logo=java&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white">
     <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A?logo=cpp2&logoColor=white">
-    <img alt="Shell" src="https://img.shields.io/badge/Shell-202020?logo=gnu-bash&logoColor=white">
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white">
 </p>
 
@@ -111,7 +122,7 @@ if __name__ == "__main__":
     <img alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?logo=Sass&logoColor=white">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=Bootstrap&logoColor=white">
     <img alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white">
-    <img alt="React" src="https://img.shields.io/badge/Angular-DD0000?logo=Angular&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/React-0075A8?logo=react&logoColor=white">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-202020?logo=markdown&logoColor=white">
 </p>
 
@@ -137,21 +148,13 @@ if __name__ == "__main__":
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
 </p>
 
-### 🗄️ Databases and ORMs
+### 🗄️ Databasesand Cloud
 
 <p>
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
     <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFA116?logo=Firebase&logoColor=white">
-    <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=Prisma&logoColor=white">
-    <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=SQLAlchemy&logoColor=white">
-</p>
-    
-### ☁ Cloud & Devops
-<p>
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
+    <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white">
     <img alt="Render" src="https://img.shields.io/badge/Render-4581C2?logo=render&logoColor=white">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-202020?logo=vercel&logoColor=white">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=Google-Cloud&logoColor=white">
@@ -162,10 +165,12 @@ if __name__ == "__main__":
 <p>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-%230079d5?logo=windows%2011&logoColor=white">
     <img alt="Ubundu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white">
     <img alt="Edge" src="https://img.shields.io/badge/Microsoft%20Edge-0078D7?logo=Microsoft-Edge&logoColor=white">
     <img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?logo=Firefox-Browser&logoColor=white">
-    <img src="https://img.shields.io/badge/CMake-064F8C?logo=CMake&logoColor=white">
-    <img src="https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=white">
+    <img alt="" src="https://img.shields.io/badge/Power_BI-FFA116?logo=power-BI&logoColor=white">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white">
     <img alt="Sublime text" src="https://img.shields.io/badge/Sublime_Text-%23575757?logo=sublime-text&logoColor=important">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white">
 </p>
@@ -183,7 +188,7 @@ if __name__ == "__main__":
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,ejs,go,astro,mdx,vue,c,css,scala,c%23,html,elixir,xml,sass,Procfile,ruby,r,scss,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,ejs,astro,mdx,vue,c,css,scala,c%23,html,elixir,xml,sass,Procfile,ruby,r,scss,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
