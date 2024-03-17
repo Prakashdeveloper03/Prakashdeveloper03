@@ -130,7 +130,6 @@ app.listen(PORT, () => {
 
 <p>
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white">
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
     <img alt="Next.js" src="https://img.shields.io/badge/Next_JS-202020?logo=nextdotjs&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
     <img alt="Express.js" src="https://img.shields.io/badge/Express_JS-202020?logo=express&logoColor=white">
@@ -155,6 +154,7 @@ app.listen(PORT, () => {
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
     <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
     <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white">
+    <img alt="Cloudfare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white">
     <img alt="Render" src="https://img.shields.io/badge/Render-4581C2?logo=render&logoColor=white">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-202020?logo=vercel&logoColor=white">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=Google-Cloud&logoColor=white">
