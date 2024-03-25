@@ -5,7 +5,7 @@
  <img src="https://readme-typing-svg.demolab.com?lines=Machine%20Learning;Backend%20Development;Always%20learning&width=450&height=75&font=Ubuntu+Mono&weight=1000&pause=75&color=3ce3ce&center=true&size=19">
 </p>
 <h3 align="center">I'm an Tech Enthusiast from India ❤️</h3><br>
-<p align="center">I am a self motivated student currently pursuing a Master of Computer Applications at the College of Engineering, Guindy. I really love working with computers and making programs that use data to do cool stuff. Right now, I'm focusing on learning how to build the behind-the-scenes part of software, called backend development. I'm working on small projects to get better at it and also learning about machine learning to add more skills to my toolbox.</p><br>
+<p align="center">I am a self motivated student currently pursuing a Master of Computer Applications at the College of Engineering, Guindy. Discovered my passion for crafting data-driven applications, I naturally gravitated towards the dynamic realm of software engineering. Presently, I am engaged in self-paced mini-projects focusing on both machine learning and backend development, honing my skills and expanding my knowledge in these fields.</p><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-Welcome-white?style=flat&amp;logo=github&amp;color=3ce3cf" alt="PRs Welcome">
@@ -29,9 +29,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#4](https://github.com/Prakashdeveloper03/CareerBot/issues/4) in [Prakashdeveloper03/CareerBot](https://github.com/Prakashdeveloper03/CareerBot)
-2. ❌ Closed PR [#5](https://github.com/rizkimcitra/expense-app/pull/5) in [rizkimcitra/expense-app](https://github.com/rizkimcitra/expense-app)
-3. 💪 Opened PR [#5](https://github.com/rizkimcitra/expense-app/pull/5) in [rizkimcitra/expense-app](https://github.com/rizkimcitra/expense-app)
+1. ❌ Closed PR [#5](https://github.com/rizkimcitra/expense-app/pull/5) in [rizkimcitra/expense-app](https://github.com/rizkimcitra/expense-app)
+2. 💪 Opened PR [#5](https://github.com/rizkimcitra/expense-app/pull/5) in [rizkimcitra/expense-app](https://github.com/rizkimcitra/expense-app)
+3. 🔒 Closed issue [#561](https://github.com/alexandresanlim/Badges4-README.md-Profile/issues/561) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 4. ❗ Opened issue [#1](https://github.com/Prakashdeveloper03/A-50/issues/1) in [Prakashdeveloper03/A-50](https://github.com/Prakashdeveloper03/A-50)
 5. ❗ Opened issue [#7](https://github.com/Prakashdeveloper03/AI.ML/issues/7) in [Prakashdeveloper03/AI.ML](https://github.com/Prakashdeveloper03/AI.ML)
 <!--END_SECTION:activity-->
@@ -110,8 +110,6 @@ app.listen(PORT, () => {
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26?logo=java&logoColor=white">
-    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white">
-    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-20232A?logo=javascript&logoColor=F7DF1E">
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white">
 </p>
 
@@ -122,6 +120,7 @@ app.listen(PORT, () => {
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
     <img alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white">
+    <img alt="" src="https://img.shields.io/badge/JQuery-0769AD?logo=jQuery&logoColor=white">
     <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-202020?logo=markdown&logoColor=white">
 </p>
@@ -130,6 +129,7 @@ app.listen(PORT, () => {
 
 <p>
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
     <img alt="Next.js" src="https://img.shields.io/badge/Next_JS-202020?logo=nextdotjs&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
     <img alt="Express.js" src="https://img.shields.io/badge/Express_JS-202020?logo=express&logoColor=white">
@@ -154,7 +154,6 @@ app.listen(PORT, () => {
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
     <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
     <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white">
-    <img alt="Cloudfare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white">
     <img alt="Render" src="https://img.shields.io/badge/Render-4581C2?logo=render&logoColor=white">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-202020?logo=vercel&logoColor=white">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=Google-Cloud&logoColor=white">
@@ -166,7 +165,6 @@ app.listen(PORT, () => {
     <img alt="Windows" src="https://img.shields.io/badge/Windows-%230079d5?logo=windows%2011&logoColor=white">
     <img alt="Ubundu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
-    <img alt="CircleCI" src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white">
     <img alt="Sublime text" src="https://img.shields.io/badge/Sublime_Text-%23575757?logo=sublime-text&logoColor=important">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white">
@@ -185,7 +183,7 @@ app.listen(PORT, () => {
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,c%2b%2b,fortran,astro,mdx,vue,c,css,scala,c%23,html,elixir,xml,sass,Procfile,ruby,r,scss,sass,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,c%2b%2b,fortran,astro,mdx,vue,c,css,scala,c%23,html,elixir,xml,sass,Procfile,ruby,go,ejs,r,scss,sass,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
