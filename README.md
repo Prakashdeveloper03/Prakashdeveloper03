@@ -183,7 +183,7 @@ app.listen(PORT, () => {
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,c%2b%2b,fortran,astro,mdx,vue,c,css,scala,c%23,html,elixir,xml,sass,Procfile,ruby,go,ejs,r,scss,sass,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,c%2b%2b,fortran,astro,mdx,vue,c,css,scala,c%23,html,elixir,xml,sass,Procfile,ruby,go,ejs,r,scss,sass,tex,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
