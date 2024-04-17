@@ -120,7 +120,6 @@ app.listen(PORT, () => {
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
     <img alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white">
-    <img alt="" src="https://img.shields.io/badge/JQuery-0769AD?logo=jQuery&logoColor=white">
     <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-202020?logo=markdown&logoColor=white">
 </p>
