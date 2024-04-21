@@ -29,11 +29,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#4](https://github.com/Prakashdeveloper03/CareerBot/issues/4) in [Prakashdeveloper03/CareerBot](https://github.com/Prakashdeveloper03/CareerBot)
-2. ❌ Closed PR [#5](https://github.com/rizkimcitra/expense-app/pull/5) in [rizkimcitra/expense-app](https://github.com/rizkimcitra/expense-app)
-3. 💪 Opened PR [#5](https://github.com/rizkimcitra/expense-app/pull/5) in [rizkimcitra/expense-app](https://github.com/rizkimcitra/expense-app)
-4. ❗ Opened issue [#1](https://github.com/Prakashdeveloper03/A-50/issues/1) in [Prakashdeveloper03/A-50](https://github.com/Prakashdeveloper03/A-50)
-5. ❗ Opened issue [#7](https://github.com/Prakashdeveloper03/AI.ML/issues/7) in [Prakashdeveloper03/AI.ML](https://github.com/Prakashdeveloper03/AI.ML)
+1. 🎉 Merged PR [#5](https://github.com/Prakashdeveloper03/CareerBot/pull/5) in [Prakashdeveloper03/CareerBot](https://github.com/Prakashdeveloper03/CareerBot)
+2. 💪 Opened PR [#5](https://github.com/Prakashdeveloper03/CareerBot/pull/5) in [Prakashdeveloper03/CareerBot](https://github.com/Prakashdeveloper03/CareerBot)
+3. 🔒 Closed issue [#4](https://github.com/Prakashdeveloper03/CareerBot/issues/4) in [Prakashdeveloper03/CareerBot](https://github.com/Prakashdeveloper03/CareerBot)
+4. ❌ Closed PR [#5](https://github.com/rizkimcitra/expense-app/pull/5) in [rizkimcitra/expense-app](https://github.com/rizkimcitra/expense-app)
+5. 💪 Opened PR [#5](https://github.com/rizkimcitra/expense-app/pull/5) in [rizkimcitra/expense-app](https://github.com/rizkimcitra/expense-app)
 <!--END_SECTION:activity-->
 
 <h3>A little more about me...</h3>
