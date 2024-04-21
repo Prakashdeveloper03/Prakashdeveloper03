@@ -110,7 +110,7 @@ app.listen(PORT, () => {
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26?logo=java&logoColor=white">
-    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white">
+    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
 </p>
 
 ### 🕸️ Frontend Development
@@ -120,6 +120,7 @@ app.listen(PORT, () => {
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
     <img alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white">
+    <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF.svg?logo=MUI&logoColor=white">
     <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-202020?logo=markdown&logoColor=white">
 </p>
@@ -142,6 +143,7 @@ app.listen(PORT, () => {
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?logo=pandas&logoColor=white">
     <img alt="ScikitLearn" src="https://img.shields.io/badge/ScikitLearn-0078D7?logo=scikit-learn&logoColor=white">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white">
     <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
 </p>
@@ -156,6 +158,19 @@ app.listen(PORT, () => {
     <img alt="Render" src="https://img.shields.io/badge/Render-4581C2?logo=render&logoColor=white">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-202020?logo=vercel&logoColor=white">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=Google-Cloud&logoColor=white">
+</p>
+
+### 🧪 Build and Testing
+
+<p>
+<img alt="Pnpm" src="https://img.shields.io/badge/Pnpm-F69220.svg?logo=pnpm&logoColor=white">
+<img alt="Poetry" src="https://img.shields.io/badge/Poetry-60A5FA.svg?logo=poetry&logoColor=white">
+<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white">
+<img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?logo=gradle&logoColor=white">
+<img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18.svg?logo=vitest&logoColor=white">
+<img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33.svg?logo=playwright&logoColor=white">
+<img alt="JUnit5" src="https://img.shields.io/badge/JUnit5-25A162.svg?logo=JUnit5&logoColor=white">
+<img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=Pytest&logoColor=white">
 </p>
 
 ### 💻 Workspace and Tools
