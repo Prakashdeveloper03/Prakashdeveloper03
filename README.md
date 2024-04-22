@@ -160,19 +160,6 @@ app.listen(PORT, () => {
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=Google-Cloud&logoColor=white">
 </p>
 
-### 🧪 Build and Testing
-
-<p>
-<img alt="Pnpm" src="https://img.shields.io/badge/Pnpm-F69220.svg?logo=pnpm&logoColor=white">
-<img alt="Poetry" src="https://img.shields.io/badge/Poetry-60A5FA.svg?logo=poetry&logoColor=white">
-<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white">
-<img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?logo=gradle&logoColor=white">
-<img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18.svg?logo=vitest&logoColor=white">
-<img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33.svg?logo=playwright&logoColor=white">
-<img alt="JUnit5" src="https://img.shields.io/badge/JUnit5-25A162.svg?logo=JUnit5&logoColor=white">
-<img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=Pytest&logoColor=white">
-</p>
-
 ### 💻 Workspace and Tools
 
 <p>
