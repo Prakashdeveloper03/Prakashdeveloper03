@@ -38,59 +38,66 @@
 
 <h3>A little more about me...</h3>
 
-```ts
-import express, { Request, Response } from "express";
-import { DateTime } from "luxon";
+```py
+from fastapi import FastAPI, Request
+from fastapi.responses import JSONResponse
+from pydantic import BaseModel
+from typing import List
+from datetime import datetime
 
-const app = express();
+app = FastAPI()
 
-app.get("/name", (req: Request, res: Response) => {
-  res.json({ Name: "Siva Prakash" });
-});
+class NameResponse(BaseModel):
+    Name: str
 
-app.get("/age", (req: Request, res: Response) => {
-  const age: number = DateTime.now().year - 2001;
-  res.json({ Age: age });
-});
+class AgeResponse(BaseModel):
+    Age: int
 
-app.get("/description", (req: Request, res: Response) => {
-  const description: string[] = [
-    "Passionate",
-    "Optimistic",
-    "Energetic",
-    "Team Player",
-  ];
-  res.json({ Description: description });
-});
+class DescriptionResponse(BaseModel):
+    Description: List[str]
 
-app.get("/education", (req: Request, res: Response) => {
-  interface EducationItem {
-    College?: string;
-    School?: string;
-    Year: number[];
-  }
+class EducationItem(BaseModel):
+    College: str = None
+    School: str = None
+    Year: List[int]
 
-  const education: EducationItem[] = [
-    {
-      College: "College of Engineering, Guindy",
-      Year: Array.from({ length: 2024 - 2022 + 1 }, (_, i) => 2022 + i),
-    },
-    {
-      College: "Apollo arts and science college",
-      Year: Array.from({ length: 2022 - 2019 + 1 }, (_, i) => 2019 + i),
-    },
-    {
-      School: "Seventh Day Adventist Matriculation Higher Secondary School",
-      Year: Array.from({ length: 2019 - 2017 + 1 }, (_, i) => 2017 + i),
-    },
-  ];
-  res.json({ Education: education });
-});
+@app.get("/name", response_model=NameResponse)
+async def get_name():
+    return {"Name": "Siva Prakash"}
 
-const PORT: number = parseInt(process.env.PORT || "5000");
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
-});
+@app.get("/age", response_model=AgeResponse)
+async def get_age():
+    current_year = datetime.now().year
+    birth_year = 2001
+    age = current_year - birth_year
+    return {"Age": age}
+
+@app.get("/description", response_model=DescriptionResponse)
+async def get_description():
+    description = ["Passionate", "Optimistic", "Energetic", "Team Player"]
+    return {"Description": description}
+
+@app.get("/education", response_model=List[EducationItem])
+async def get_education():
+    education = [
+        {
+            "College": "College of Engineering, Guindy",
+            "Year": list(range(2022, 2024 + 1))
+        },
+        {
+            "College": "Apollo arts and science college",
+            "Year": list(range(2019, 2022 + 1))
+        },
+        {
+            "School": "Seventh Day Adventist Matriculation Higher Secondary School",
+            "Year": list(range(2017, 2019 + 1))
+        }
+    ]
+    return education
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=5000)
 ```
 
 <h2 align="left">📱 Connect with Me :</h2>
@@ -120,7 +127,6 @@ app.listen(PORT, () => {
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
     <img alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white">
-    <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF.svg?logo=MUI&logoColor=white">
     <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-202020?logo=markdown&logoColor=white">
 </p>
