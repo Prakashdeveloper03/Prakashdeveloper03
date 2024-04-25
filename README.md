@@ -127,7 +127,8 @@ if __name__ == "__main__":
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
     <img alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white">
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
+    <img alt="React" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
+    <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-202020?logo=markdown&logoColor=white">
 </p>
 
@@ -136,9 +137,9 @@ if __name__ == "__main__":
 <p>
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white">
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next_JS-202020?logo=nextdotjs&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
     <img alt="Express.js" src="https://img.shields.io/badge/Express_JS-202020?logo=express&logoColor=white">
+    <img alt="Next.js" src="https://img.shields.io/badge/Nuxt_JS-00DC82.svg?logo=nuxtdotjs&logoColor=white">
     <img alt="Node.js" src="https://img.shields.io/badge/Node_JS-339933?logo=nodedotjs&logoColor=white">
 </p>
 
