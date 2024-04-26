@@ -38,66 +38,59 @@
 
 <h3>A little more about me...</h3>
 
-```py
-from fastapi import FastAPI, Request
-from fastapi.responses import JSONResponse
-from pydantic import BaseModel
-from typing import List
-from datetime import datetime
+```go
+package main
 
-app = FastAPI()
+import (
+    "github.com/labstack/echo/v4"
+    "net/http"
+    "time"
+)
 
-class NameResponse(BaseModel):
-    Name: str
+func main() {
+    e := echo.New()
 
-class AgeResponse(BaseModel):
-    Age: int
+    app := e.Group("/api/v1")
 
-class DescriptionResponse(BaseModel):
-    Description: List[str]
+    app.GET("/name", func(c echo.Context) error {
+        return c.JSON(http.StatusOK, map[string]string{"Name": "Siva Prakash"})
+    })
 
-class EducationItem(BaseModel):
-    College: str = None
-    School: str = None
-    Year: List[int]
-
-@app.get("/name", response_model=NameResponse)
-async def get_name():
-    return {"Name": "Siva Prakash"}
-
-@app.get("/age", response_model=AgeResponse)
-async def get_age():
-    current_year = datetime.now().year
-    birth_year = 2001
-    age = current_year - birth_year
-    return {"Age": age}
-
-@app.get("/description", response_model=DescriptionResponse)
-async def get_description():
-    description = ["Passionate", "Optimistic", "Energetic", "Team Player"]
-    return {"Description": description}
-
-@app.get("/education", response_model=List[EducationItem])
-async def get_education():
-    education = [
-        {
-            "College": "College of Engineering, Guindy",
-            "Year": list(range(2022, 2024 + 1))
-        },
-        {
-            "College": "Apollo arts and science college",
-            "Year": list(range(2019, 2022 + 1))
-        },
-        {
-            "School": "Seventh Day Adventist Matriculation Higher Secondary School",
-            "Year": list(range(2017, 2019 + 1))
+    app.GET("/age", func(c echo.Context) error {
+        birthDate := time.Date(2001, time.March, 10, 0, 0, 0, 0, time.UTC)
+        currentYear, _, _ := time.Now().Date()
+        age := currentYear - birthDate.Year()
+        if time.Now().Before(time.Date(currentYear, time.March, 10, 0, 0, 0, 0, time.UTC)) {
+            age--
         }
-    ]
-    return education
+        return c.JSON(http.StatusOK, map[string]int{"Age": age})
+    })
 
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=5000)
+    app.GET("/description", func(c echo.Context) error {
+        description := []string{"Passionate", "Optimistic", "Energetic", "Team Player"}
+        return c.JSON(http.StatusOK, map[string][]string{"Description": description})
+    })
+
+    app.GET("/education", func(c echo.Context) error {
+        education := []map[string]interface{}{
+            {
+                "College": "College of Engineering, Guindy",
+                "Year":    []int{2022, 2023, 2024},
+            },
+            {
+                "College": "Apollo arts and science college",
+                "Year":    []int{2019, 2020, 2021, 2022},
+            },
+            {
+                "School": "Seventh Day Adventist Matriculation Higher Secondary School",
+                "Year":   []int{2017, 2018, 2019},
+            },
+        }
+        return c.JSON(http.StatusOK, education)
+    })
+
+    e.Logger.Fatal(e.Start(":5000"))
+}
 ```
 
 <h2 align="left">📱 Connect with Me :</h2>
@@ -127,8 +120,7 @@ if __name__ == "__main__":
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
     <img alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white">
-    <img alt="React" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
-    <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-202020?logo=markdown&logoColor=white">
 </p>
 
@@ -137,9 +129,9 @@ if __name__ == "__main__":
 <p>
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white">
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next_JS-202020?logo=nextdotjs&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
     <img alt="Express.js" src="https://img.shields.io/badge/Express_JS-202020?logo=express&logoColor=white">
-    <img alt="Next.js" src="https://img.shields.io/badge/Nuxt_JS-00DC82.svg?logo=nuxtdotjs&logoColor=white">
     <img alt="Node.js" src="https://img.shields.io/badge/Node_JS-339933?logo=nodedotjs&logoColor=white">
 </p>
 
