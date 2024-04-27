@@ -110,6 +110,8 @@ func main() {
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26?logo=java&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white">
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=Ruby&logoColor=white">
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
 </p>
 
@@ -181,7 +183,7 @@ func main() {
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,c%2b%2b,fortran,astro,mdx,vue,c,css,scala,c%23,html,elixir,xml,sass,Procfile,ruby,go,ejs,r,scss,sass,tex,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,c%2b%2b,fortran,astro,mdx,vue,c,css,scala,c%23,html,elixir,xml,sass,Procfile,shell,ejs,r,scss,sass,tex,markdown&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
