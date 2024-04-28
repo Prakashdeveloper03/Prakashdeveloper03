@@ -111,7 +111,7 @@ func main() {
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26?logo=java&logoColor=white">
     <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white">
-    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=Ruby&logoColor=white">
+    <img alt="Ruby" src="https://img.shields.io/badge/JavaScript-20232A?logo=javascript&logoColor=%23F7DF1E)">
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
 </p>
 
@@ -144,7 +144,6 @@ func main() {
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?logo=pandas&logoColor=white">
     <img alt="ScikitLearn" src="https://img.shields.io/badge/ScikitLearn-0078D7?logo=scikit-learn&logoColor=white">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">
-    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white">
     <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
 </p>
