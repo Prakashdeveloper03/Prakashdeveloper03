@@ -19,8 +19,8 @@
 
 <h2>😉 About Me : </h2>
 
-- 🔭 I’m currently working on **Backend Development**
-- 🌱 I’m currently learning **Backend Development**
+- 🔭 I’m currently working on **Deep Learning**
+- 🌱 I’m currently learning **Computer Vision**
 - 👯 I’m looking to collaborate on **Machine Learning**
 - 😄 Pronouns : **Siva/Prakash**
 - ⚡ Fun fact : **I listen to music atleast 30 mins/day**
@@ -91,7 +91,7 @@ if __name__ == "__main__":
 
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-    <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26?logo=java&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C++-9C033A?logo=c%2B%2B&logoColor=white">
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
 </p>
 
@@ -102,16 +102,15 @@ if __name__ == "__main__":
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
     <img alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white">
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-202020?logo=markdown&logoColor=white">
 </p>
 
 ### 💥 Backend Development
 
 <p>
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white">
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
-    <img alt="Nest.js" src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-202020?logo=Flask&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
     <img alt="Express.js" src="https://img.shields.io/badge/Express_JS-202020?logo=express&logoColor=white">
     <img alt="Node.js" src="https://img.shields.io/badge/Node_JS-339933?logo=nodedotjs&logoColor=white">
@@ -123,8 +122,10 @@ if __name__ == "__main__":
     <img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?logo=numpy&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?logo=pandas&logoColor=white">
     <img alt="ScikitLearn" src="https://img.shields.io/badge/ScikitLearn-0078D7?logo=scikit-learn&logoColor=white">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=OpenCV&logoColor=white">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">
     <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
 </p>
 
@@ -143,8 +144,9 @@ if __name__ == "__main__":
 <p>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-%230079d5?logo=windows%2011&logoColor=white">
     <img alt="Ubundu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
+    <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA.svg?logo=Fedora&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
     <img alt="Sublime text" src="https://img.shields.io/badge/Sublime_Text-%23575757?logo=sublime-text&logoColor=important">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white">
 </p>
@@ -162,7 +164,7 @@ if __name__ == "__main__":
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,c%2b%2b,fortran,astro,ruby,go,mdx,vue,c,css,scala,c%23,html,elixir,xml,sass,Procfile,shell,ejs,r,scss,sass,tex,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,sql,java,astro,ruby,go,mdx,vue,c,css,scala,c%23,html,elixir,xml,sass,Procfile,shell,ejs,r,scss,sass,tex,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
