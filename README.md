@@ -2,7 +2,7 @@
 
 <h1 align="center"> வணக்கம் (Vanakkam), I am Siva Prakash </h1>
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?lines=Machine%20Learning;Backend%20Development;Always%20learning&width=450&height=75&font=Ubuntu+Mono&weight=1000&pause=75&color=3ce3ce&center=true&size=19">
+ <img src="https://readme-typing-svg.demolab.com?lines=Machine%20Learning;Data%20Engineering;Backend%20Development;Always%20learning&width=450&height=75&font=Ubuntu+Mono&weight=1000&pause=75&color=3ce3ce&center=true&size=19">
 </p>
 <h3 align="center">I'm an Data Enthusiast from India ❤️</h3><br>
 <p align="center">I am a self-motivated professional holding a Master of Computer Applications. With a strong focus on developing data-driven applications, I have cultivated expertise in software engineering. Currently, my work spans projects encompassing both machine learning and data engineering domains. I am eager to apply my skills and experience to deliver impactful contributions within a dynamic and challenging work environment.</p><br>
