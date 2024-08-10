@@ -92,13 +92,13 @@ if __name__ == "__main__":
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26?logo=java&logoColor=white">
-    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white">
+    <img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?logo=Scala&logoColor=white">
 </p>
 
 ### 💥 Backend Development
 
 <p>
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=white">
     <img alt="Flask" src="https://img.shields.io/badge/Flask-202020?logo=Flask&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
 </p>
@@ -123,7 +123,7 @@ if __name__ == "__main__":
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
     <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?logo=Redis&logoColor=white">
     <img alt="Neo4J" src="https://img.shields.io/badge/Neo4j-4581C3?logo=Neo4j&logoColor=white">
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?logo=Elasticsearch&logoColor=white">
+    <img alt="TimescaleDB" src="https://img.shields.io/badge/TimescaleDB-EE4C2C?logo=Timescale&logoColor=white">
     <img alt="Cassandra" src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?logo=Apache-Cassandra&logoColor=white">
 </p>
 
@@ -131,7 +131,7 @@ if __name__ == "__main__":
 
 <p>
     <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?logo=Snowflake&logoColor=white">
-    <img alt="" src="https://img.shields.io/badge/BigQuery-669DF6?logo=Google-BigQuery&logoColor=white">
+    <img alt="Bigquery" src="https://img.shields.io/badge/BigQuery-669DF6?logo=Google-BigQuery&logoColor=white">
     <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?logo=Databricks&logoColor=white">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?logo=Google-Cloud&logoColor=white">
 </p>
@@ -141,7 +141,6 @@ if __name__ == "__main__":
 <p>
     <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=Apache-Spark&logoColor=white">
     <img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-225593?logo=Apache-Hadoop&logoColor=white">
-    <img alt="Apache Hive" src="https://img.shields.io/badge/Apache%20Hive-FFA116?logo=Apache-Hive&logoColor=white">
     <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=Apache-Airflow&logoColor=white">
      <img alt="Apache Flink" src="https://img.shields.io/badge/Apache%20Flink-E6526F?logo=Apache-Flink&logoColor=white">
     <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=Apache-Kafka&logoColor=white">
@@ -152,7 +151,7 @@ if __name__ == "__main__":
 <p>
 <img alt="DBT" src="https://img.shields.io/badge/DBT-FF694B?logo=dbt&logoColor=white">
  <img alt="Looker" src="https://img.shields.io/badge/Looker-4285F4?logo=Looker&logoColor=white">
-
+ <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=Tableau&logoColor=white">
 </p>
 
 ### ⛽ Devops
