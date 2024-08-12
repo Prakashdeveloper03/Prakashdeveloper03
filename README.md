@@ -92,7 +92,7 @@ if __name__ == "__main__":
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26?logo=java&logoColor=white">
-    <img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?logo=Scala&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white">
 </p>
 
 ### 💥 Backend Development
@@ -185,7 +185,7 @@ if __name__ == "__main__":
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,scala,astro,ruby,mdx,vue,c,css,c%23,html,elixir,javascript,typescript,c%2b%2b,xml,sass,Procfile,ejs,r,scss,sass,tex,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,scala,ruby,sql,vue,c,css,c%23,html,elixir,javascript,c%2b%2b,xml,sass,ejs,r,scss,tex,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
