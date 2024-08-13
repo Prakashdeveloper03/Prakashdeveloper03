@@ -93,6 +93,7 @@ if __name__ == "__main__":
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26?logo=java&logoColor=white">
     <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white">
+    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=TypeScript&logoColor=white">
 </p>
 
 ### 💥 Backend Development
