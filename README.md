@@ -110,10 +110,6 @@ if __name__ == "__main__":
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?logo=pandas&logoColor=white">
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=Plotly&logoColor=white">
     <img alt="ScikitLearn" src="https://img.shields.io/badge/ScikitLearn-0078D7?logo=scikit-learn&logoColor=white">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white">
-    <img alt="Spacy" src="https://img.shields.io/badge/Spacy-09A3D5.svg?logo=spaCy&logoColor=white">
-    <img alt="Langchain" src="https://img.shields.io/badge/Langchain-1C3C3C?logo=langchain&logoColor=white">
-    <img alt="Lightning" src="https://img.shields.io/badge/Lightning-792DE4?logo=lightning&logoColor=white">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">
     <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
     <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white">
@@ -157,7 +153,8 @@ if __name__ == "__main__":
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white">
-    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white">
+    <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571.svg?logo=Kibana&logoColor=white">
+    <img alt="CircleCI" src="https://img.shields.io/badge/CircleCI-343434.svg?logo=CircleCI&logoColor=white">
 </p>
 
 ### 💻 Workspace and Tools
