@@ -29,11 +29,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Prakashdeveloper03/Sharan/pull/1) in [Prakashdeveloper03/Sharan](https://github.com/Prakashdeveloper03/Sharan)
-2. 💪 Opened PR [#1](https://github.com/Prakashdeveloper03/Sharan/pull/1) in [Prakashdeveloper03/Sharan](https://github.com/Prakashdeveloper03/Sharan)
-3. 🎉 Merged PR [#5](https://github.com/Prakashdeveloper03/SDE-Sheet/pull/5) in [Prakashdeveloper03/SDE-Sheet](https://github.com/Prakashdeveloper03/SDE-Sheet)
-4. 💪 Opened PR [#5](https://github.com/Prakashdeveloper03/SDE-Sheet/pull/5) in [Prakashdeveloper03/SDE-Sheet](https://github.com/Prakashdeveloper03/SDE-Sheet)
-5. ❗ Opened issue [#5](https://github.com/Prakashdeveloper03/Prakashdeveloper03.github.io/issues/5) in [Prakashdeveloper03/Prakashdeveloper03.github.io](https://github.com/Prakashdeveloper03/Prakashdeveloper03.github.io)
+1. 🎉 Merged PR [#1](https://github.com/Prakashdeveloper03/Blind-75/pull/1) in [Prakashdeveloper03/Blind-75](https://github.com/Prakashdeveloper03/Blind-75)
+2. 💪 Opened PR [#1](https://github.com/Prakashdeveloper03/Blind-75/pull/1) in [Prakashdeveloper03/Blind-75](https://github.com/Prakashdeveloper03/Blind-75)
+3. 🎉 Merged PR [#1](https://github.com/Prakashdeveloper03/Sharan/pull/1) in [Prakashdeveloper03/Sharan](https://github.com/Prakashdeveloper03/Sharan)
+4. 💪 Opened PR [#1](https://github.com/Prakashdeveloper03/Sharan/pull/1) in [Prakashdeveloper03/Sharan](https://github.com/Prakashdeveloper03/Sharan)
+5. 🎉 Merged PR [#5](https://github.com/Prakashdeveloper03/SDE-Sheet/pull/5) in [Prakashdeveloper03/SDE-Sheet](https://github.com/Prakashdeveloper03/SDE-Sheet)
 <!--END_SECTION:activity-->
 
 <h3>A little more about me...</h3>
