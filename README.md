@@ -108,11 +108,9 @@ if __name__ == "__main__":
 <p>
     <img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?logo=numpy&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?logo=pandas&logoColor=white">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=Plotly&logoColor=white">
     <img alt="ScikitLearn" src="https://img.shields.io/badge/ScikitLearn-0078D7?logo=scikit-learn&logoColor=white">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">
     <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
-    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
 </p>
 
@@ -163,7 +161,7 @@ if __name__ == "__main__":
     <img alt="Ubundu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
     <img alt="Dbt" src="https://img.shields.io/badge/Dbt-FF694B?logo=dbt&logoColor=white">
     <img alt="Looker" src="https://img.shields.io/badge/Looker-4285F4?logo=Looker&logoColor=white">
-    <img alt="Tableau" src="https://img.shields.io/badge/Looker-4285F4?logo=Looker&logoColor=white">
+    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=Tableau&logoColor=white">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=Postman&logoColor=white">
     <img alt="Gradle" src="https://img.shields.io/badge/Gradle-575757?logo=Gradle&logoColor=white">
     <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143.svg?logo=Neovim&logoColor=white">
