@@ -100,7 +100,6 @@ if __name__ == "__main__":
 <p>
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
-    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?logo=GraphQL&logoColor=white">
 </p>
 
 ### 🧩 Machine Learning
@@ -152,7 +151,6 @@ if __name__ == "__main__":
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white">
     <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571.svg?logo=Kibana&logoColor=white">
-    <img alt="CircleCI" src="https://img.shields.io/badge/CircleCI-343434.svg?logo=CircleCI&logoColor=white">
 </p>
 
 ### 💻 Workspace and Tools
@@ -161,7 +159,6 @@ if __name__ == "__main__":
     <img alt="Ubundu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
     <img alt="Dbt" src="https://img.shields.io/badge/Dbt-FF694B?logo=dbt&logoColor=white">
     <img alt="Looker" src="https://img.shields.io/badge/Looker-4285F4?logo=Looker&logoColor=white">
-    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=Tableau&logoColor=white">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=Postman&logoColor=white">
     <img alt="Gradle" src="https://img.shields.io/badge/Gradle-575757?logo=Gradle&logoColor=white">
     <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143.svg?logo=Neovim&logoColor=white">
