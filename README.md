@@ -92,13 +92,14 @@ if __name__ == "__main__":
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26?logo=java&logoColor=white">
-    <img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F.svg?logo=Scala&logoColor=white">
+    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=TypeScript&logoColor=white">
 </p>
 
-### 💥 Backend Development
+### 💥 Web Development
 
 <p>
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=white">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DB0A40?logo=Angular&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
 </p>
 
