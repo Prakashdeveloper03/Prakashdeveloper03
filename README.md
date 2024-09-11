@@ -93,6 +93,7 @@ if __name__ == "__main__":
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26?logo=java&logoColor=white">
     <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-00599C?logo=cpp2&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&logoColor=white">
 </p>
 
 ### 💥 Web Development
@@ -170,8 +171,8 @@ if __name__ == "__main__":
 <details open>
   <summary>GitHub Profile Stats</summary>
   <br/>
-    <img width="46%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Prakashdeveloper03&theme=radical&show_icons=true&hide_border=true" />
-    <img width="49%" alt="Prakashdeveloper03's streak" src="https://streak-stats.demolab.com/?user=Prakashdeveloper03&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+    <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Prakashdeveloper03&theme=radical&show_icons=true&hide_border=true" />
+    <img alt="Prakashdeveloper03's streak" src="https://streak-stats.demolab.com/?user=Prakashdeveloper03&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   <br/>
 </details>
 
@@ -179,7 +180,7 @@ if __name__ == "__main__":
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img width="50%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,go,elixir,sql,vue,c,ruby,css,c%23,html,typescript,javascript,xml,sass,ejs,r,scss,scala,tex,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,ruby,elixir,sql,vue,c,shell,css,c%23,html,typescript,javascript,xml,sass,ejs,r,scss,scala,tex,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
@@ -188,7 +189,7 @@ if __name__ == "__main__":
   <summary>GitHub Trophy Stats</summary>
   <br/>
   <p align="center">
-    <img width="98%" alt="trophy stats" src="https://github-profile-trophy.vercel.app/?username=Prakashdeveloper03&theme=radical&no-frame=true&title=Issues,Stars,Commit,Repositories,PullRequest,MultiLanguage,Followers,Reviews" />
+    <img width="98%" alt="trophy stats" src="https://github-profile-trophy.vercel.app/?username=Prakashdeveloper03&theme=radical&no-frame=true&title=Issues,Stars,Commit,Experience,Repositories,PullRequest,MultiLanguage,Followers" />
   </p>
   <br/>
 </details>
