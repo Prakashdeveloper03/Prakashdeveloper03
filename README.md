@@ -91,8 +91,8 @@ if __name__ == "__main__":
 
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-    <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26?logo=java&logoColor=white">
-    <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-00599C?logo=cpp2&logoColor=white">
+    <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-E34F26?logo=java&logoColor=white">
+    <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
     <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&logoColor=white">
 </p>
 
@@ -171,8 +171,8 @@ if __name__ == "__main__":
 <details open>
   <summary>GitHub Profile Stats</summary>
   <br/>
-    <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Prakashdeveloper03&theme=radical&show_icons=true&hide_border=true" />
-    <img alt="Prakashdeveloper03's streak" src="https://streak-stats.demolab.com/?user=Prakashdeveloper03&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+    <img width="46%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Prakashdeveloper03&theme=radical&show_icons=true&hide_border=true" />
+    <img width="49%" alt="Prakashdeveloper03's streak" src="https://streak-stats.demolab.com/?user=Prakashdeveloper03&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   <br/>
 </details>
 
