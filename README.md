@@ -77,7 +77,6 @@ if __name__ == "__main__":
 
 <h2 align="left">📱 Connect with Me :</h2>
 <p>
-  <a href="mailto:thalapathysp25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/prakashdeveloper"><img src="https://img.shields.io/badge/Linkedin-0e76a8?logo=linkedin&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/prakashdeveloper"><img src="https://img.shields.io/badge/Hackerrank-25A162?logo=hackerrank&logoColor=white"/></a>
   <a href="https://leetcode.com/Prakashdeveloper03/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white"/></a>
@@ -92,15 +91,17 @@ if __name__ == "__main__":
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-E34F26?logo=java&logoColor=white">
-    <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
-    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=Ruby&logoColor=white">
+    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
 </p>
 
 ### 💥 Web Development
 
 <p>
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=white">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
+    <img alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=white">
 </p>
 
 ### 🧩 Machine Learning
@@ -159,10 +160,7 @@ if __name__ == "__main__":
 
 <p>
     <img alt="Ubundu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
-    <img alt="Dbt" src="https://img.shields.io/badge/Dbt-FF694B?logo=dbt&logoColor=white">
-    <img alt="Looker" src="https://img.shields.io/badge/Looker-4285F4?logo=Looker&logoColor=white">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=Postman&logoColor=white">
-    <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C.svg?logo=CMake&logoColor=white">
     <img alt="Gradle" src="https://img.shields.io/badge/Gradle-575757?logo=Gradle&logoColor=white">
     <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143.svg?logo=Neovim&logoColor=white">
 </p>
@@ -180,7 +178,7 @@ if __name__ == "__main__":
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,go,elixir,sql,vue,c,shell,css,c%23,html,typescript,javascript,xml,sass,ejs,r,scss,scala,tex,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,go,elixir,sql,vue,c,ruby,css,c%23,html,c%2b%2b,xml,sass,ejs,r,scss,scala,tex,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
