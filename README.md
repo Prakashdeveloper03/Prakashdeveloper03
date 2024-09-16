@@ -81,6 +81,7 @@ if __name__ == "__main__":
   <a href="https://www.hackerrank.com/prakashdeveloper"><img src="https://img.shields.io/badge/Hackerrank-25A162?logo=hackerrank&logoColor=white"/></a>
   <a href="https://leetcode.com/Prakashdeveloper03/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white"/></a>
   <a href="https://auth.geeksforgeeks.org/user/prakashdeveloper03/practice"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://prakashdeveloper03.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722.svg?logo=blogger&logoColor=white" /></a>
   <a href="https://prakashdeveloper03.github.io/"><img src="https://img.shields.io/badge/Website-202020?logo=About.me&logoColor=white"/></a>
 </p>
 
