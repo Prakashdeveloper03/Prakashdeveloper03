@@ -29,11 +29,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/Prakashdeveloper03/Neetcode-150/pull/2) in [Prakashdeveloper03/Neetcode-150](https://github.com/Prakashdeveloper03/Neetcode-150)
-2. 💪 Opened PR [#2](https://github.com/Prakashdeveloper03/Neetcode-150/pull/2) in [Prakashdeveloper03/Neetcode-150](https://github.com/Prakashdeveloper03/Neetcode-150)
-3. 🎉 Merged PR [#1](https://github.com/Prakashdeveloper03/Blind-75/pull/1) in [Prakashdeveloper03/Blind-75](https://github.com/Prakashdeveloper03/Blind-75)
-4. 💪 Opened PR [#1](https://github.com/Prakashdeveloper03/Blind-75/pull/1) in [Prakashdeveloper03/Blind-75](https://github.com/Prakashdeveloper03/Blind-75)
-5. 🎉 Merged PR [#1](https://github.com/Prakashdeveloper03/Sharan/pull/1) in [Prakashdeveloper03/Sharan](https://github.com/Prakashdeveloper03/Sharan)
+1. 🎉 Merged PR [#3](https://github.com/Prakashdeveloper03/Neetcode-150/pull/3) in [Prakashdeveloper03/Neetcode-150](https://github.com/Prakashdeveloper03/Neetcode-150)
+2. 💪 Opened PR [#3](https://github.com/Prakashdeveloper03/Neetcode-150/pull/3) in [Prakashdeveloper03/Neetcode-150](https://github.com/Prakashdeveloper03/Neetcode-150)
+3. 🎉 Merged PR [#2](https://github.com/Prakashdeveloper03/Neetcode-150/pull/2) in [Prakashdeveloper03/Neetcode-150](https://github.com/Prakashdeveloper03/Neetcode-150)
+4. 💪 Opened PR [#2](https://github.com/Prakashdeveloper03/Neetcode-150/pull/2) in [Prakashdeveloper03/Neetcode-150](https://github.com/Prakashdeveloper03/Neetcode-150)
+5. 🎉 Merged PR [#1](https://github.com/Prakashdeveloper03/Blind-75/pull/1) in [Prakashdeveloper03/Blind-75](https://github.com/Prakashdeveloper03/Blind-75)
 <!--END_SECTION:activity-->
 
 <h3>A little more about me...</h3>
