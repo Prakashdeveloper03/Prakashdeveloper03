@@ -29,11 +29,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#1](https://github.com/Prakashdeveloper03/Practice-Pandas/issues/1) in [Prakashdeveloper03/Practice-Pandas](https://github.com/Prakashdeveloper03/Practice-Pandas)
-2. ❗ Opened issue [#1](https://github.com/Prakashdeveloper03/Practice-Pandas/issues/1) in [Prakashdeveloper03/Practice-Pandas](https://github.com/Prakashdeveloper03/Practice-Pandas)
-3. 🎉 Merged PR [#3](https://github.com/Prakashdeveloper03/Neetcode-150/pull/3) in [Prakashdeveloper03/Neetcode-150](https://github.com/Prakashdeveloper03/Neetcode-150)
-4. 💪 Opened PR [#3](https://github.com/Prakashdeveloper03/Neetcode-150/pull/3) in [Prakashdeveloper03/Neetcode-150](https://github.com/Prakashdeveloper03/Neetcode-150)
-5. 🎉 Merged PR [#2](https://github.com/Prakashdeveloper03/Neetcode-150/pull/2) in [Prakashdeveloper03/Neetcode-150](https://github.com/Prakashdeveloper03/Neetcode-150)
+1. 🎉 Merged PR [#2](https://github.com/Prakashdeveloper03/Neetcode-150/pull/2) in [Prakashdeveloper03/Neetcode-150](https://github.com/Prakashdeveloper03/Neetcode-150)
+2. 💪 Opened PR [#2](https://github.com/Prakashdeveloper03/Neetcode-150/pull/2) in [Prakashdeveloper03/Neetcode-150](https://github.com/Prakashdeveloper03/Neetcode-150)
+3. 🎉 Merged PR [#1](https://github.com/Prakashdeveloper03/Blind-75/pull/1) in [Prakashdeveloper03/Blind-75](https://github.com/Prakashdeveloper03/Blind-75)
+4. 💪 Opened PR [#1](https://github.com/Prakashdeveloper03/Blind-75/pull/1) in [Prakashdeveloper03/Blind-75](https://github.com/Prakashdeveloper03/Blind-75)
+5. 🎉 Merged PR [#1](https://github.com/Prakashdeveloper03/Sharan/pull/1) in [Prakashdeveloper03/Sharan](https://github.com/Prakashdeveloper03/Sharan)
 <!--END_SECTION:activity-->
 
 <h3>A little more about me...</h3>
@@ -81,7 +81,7 @@ if __name__ == "__main__":
   <a href="https://www.hackerrank.com/prakashdeveloper"><img src="https://img.shields.io/badge/Hackerrank-25A162?logo=hackerrank&logoColor=white"/></a>
   <a href="https://leetcode.com/Prakashdeveloper/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white"/></a>
   <a href="https://auth.geeksforgeeks.org/user/prakashdeveloper03/practice"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white"/></a>
-  <a href="https://prakashdeveloper03.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722.svg?logo=blogger&logoColor=white" /></a>
+  <a href="https://prakashdeveloper03.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white" /></a>
   <a href="https://prakashdeveloper03.github.io/"><img src="https://img.shields.io/badge/Website-202020?logo=About.me&logoColor=white"/></a>
 </p>
 
@@ -92,7 +92,7 @@ if __name__ == "__main__":
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-E34F26?logo=java&logoColor=white">
-    <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white">
 </p>
 
 ### 💥 Backend Development
@@ -107,8 +107,10 @@ if __name__ == "__main__":
 <p>
     <img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?logo=numpy&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?logo=pandas&logoColor=white">
-    <img alt="ScikitLearn" src="https://img.shields.io/badge/ScikitLearn-0078D7?logo=scikit-learn&logoColor=white">
+    <img alt="Dask" src="https://img.shields.io/badge/Dask-FC6E6B?logo=Dask&logoColor=white">
+    <img alt="Polars" src="https://img.shields.io/badge/Polars-CD792C?logo=Polars&logoColor=white">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white">
+    <img alt="ScikitLearn" src="https://img.shields.io/badge/ScikitLearn-0078D7?logo=scikit-learn&logoColor=white">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">
     <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white">
     <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
@@ -123,8 +125,9 @@ if __name__ == "__main__":
     <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?logo=Redis&logoColor=white">
     <img alt="Neo4J" src="https://img.shields.io/badge/Neo4j-4581C3?logo=Neo4j&logoColor=white">
     <img alt="TimescaleDB" src="https://img.shields.io/badge/TimescaleDB-EE4C2C?logo=Timescale&logoColor=white">
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?logo=Elasticsearch&logoColor=white">
     <img alt="Cassandra" src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?logo=Apache-Cassandra&logoColor=white">
-    <img alt="Spanner" src="https://img.shields.io/badge/Spanner-4285F4.svg?logo=Google-Cloud-Spanner&logoColor=white">
+    <img alt="Spanner" src="https://img.shields.io/badge/Spanner-4285F4?logo=Google-Cloud-Spanner&logoColor=white">
 </p>
 
 ### ⛈️ Cloud Platforms
@@ -143,6 +146,7 @@ if __name__ == "__main__":
     <img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-225593?logo=Apache-Hadoop&logoColor=white">
     <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=Apache-Airflow&logoColor=white">
     <img alt="Apache Flink" src="https://img.shields.io/badge/Apache%20Flink-E6526F?logo=Apache-Flink&logoColor=white">
+    <img alt="Apache Storm" src="https://img.shields.io/badge/Apache%20Storm-225593?logo=Apache-Storm&logoColor=white">
     <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=Apache-Kafka&logoColor=white">
 </p>
 
@@ -150,22 +154,23 @@ if __name__ == "__main__":
 
 <p>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white">
-    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?logo=Jenkins&logoColor=white">
+    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white">
-    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?logo=Grafana&logoColor=white">
-    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C.svg?logo=Prometheus&logoColor=white">
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?logo=Terraform&logoColor=white">
+    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=Grafana&logoColor=white">
+    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white">
 </p>
 
 ### 💻 Workspace and Tools
 
 <p>
     <img alt="Ubundu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
-    <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA.svg?logo=Fedora&logoColor=white">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=Postman&logoColor=white">
-    <img alt="Cmake" src="https://img.shields.io/badge/CMake-064F8C.svg?logo=CMake&logoColor=white">
+    <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?logo=Fedora&logoColor=white">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white">
     <img alt="Gradle" src="https://img.shields.io/badge/Gradle-575757?logo=Gradle&logoColor=white">
-    <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143.svg?logo=Neovim&logoColor=white">
+    <img alt="Dbt" src="https://img.shields.io/badge/Dbt-FF694B?logo=dbt&logoColor=white">
+    <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?logo=Neovim&logoColor=white">
 </p>
 
 <h2>📈 Statistics and Languages :</h2>
@@ -181,7 +186,7 @@ if __name__ == "__main__":
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,go,elixir,sql,vue,c,ruby,css,c%23,html,scala,xml,sass,ejs,r,scss,typescript,javascript,tex,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,elixir,sql,vue,c,ruby,css,c%23,c%2b%2b,html,scala,xml,sass,ejs,r,scss,typescript,javascript,tex,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
