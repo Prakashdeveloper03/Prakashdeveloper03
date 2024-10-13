@@ -5,13 +5,13 @@
  <img src="https://readme-typing-svg.demolab.com?lines=Machine%20Learning;Data%20Engineering;Backend%20Development;Always%20learning&width=450&height=75&font=Ubuntu+Mono&weight=1000&pause=75&color=3ce3ce&center=true&size=19">
 </p>
 <h3 align="center">I'm an Data Enthusiast from India ❤️</h3><br>
-<p align="center">I am a self-motivated professional holding a Master of Computer Applications. With a strong focus on developing data-driven applications, I have cultivated expertise in software engineering. Currently, my work spans projects encompassing both machine learning and data engineering domains. I am eager to apply my skills and experience to deliver impactful contributions within a dynamic and challenging work environment.</p><br>
+<p align="center">I am a self-motivated professional holding a Master of Computer Applications. With a strong focus on developing data-driven applications, I have cultivated expertise in software engineering. Currently, my work spans projects encompassing both backend development and data engineering domains. I am eager to apply my skills and experience to deliver impactful contributions within a dynamic and challenging work environment.</p><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-Welcome-white?style=flat&amp;logo=github&amp;color=3ce3cf" alt="PRs Welcome">
   <img src="https://img.shields.io/badge/Name-Siva_Prakash-white?color=3ce3ce" alt="name">
-  <img src="https://img.shields.io/badge/Age-22-3ce3ce" alt="age">
-  <img src="https://img.shields.io/badge/Focus-Machine_Learning-3ce3ce" alt="focus">
+  <img src="https://img.shields.io/badge/Age-23-3ce3ce" alt="age">
+  <img src="https://img.shields.io/badge/Focus-Big_Data-3ce3ce" alt="focus">
   <img src="https://img.shields.io/badge/Living-Chennai-3ce3ce" alt="living">
   <img src="https://komarev.com/ghpvc/?username=Prakashdeveloper03&amp;labelColor=black&amp;label=Profile+Views&amp;color=3ce3ce" alt="Visitors count">
   <img src="https://img.shields.io/github/last-commit/Prakashdeveloper03/Prakashdeveloper03?logo=markdown&amp;label=Last+Update&amp;color=3ce3ce&amp" alt="Last Commit">
@@ -81,7 +81,6 @@ if __name__ == "__main__":
   <a href="https://www.hackerrank.com/prakashdeveloper"><img src="https://img.shields.io/badge/Hackerrank-25A162?logo=hackerrank&logoColor=white"/></a>
   <a href="https://leetcode.com/Prakashdeveloper/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white"/></a>
   <a href="https://auth.geeksforgeeks.org/user/prakashdeveloper03/practice"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white"/></a>
-  <a href="https://prakashdeveloper03.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white" /></a>
   <a href="https://prakashdeveloper03.github.io/"><img src="https://img.shields.io/badge/Website-202020?logo=About.me&logoColor=white"/></a>
 </p>
 
@@ -107,10 +106,8 @@ if __name__ == "__main__":
 <p>
     <img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?logo=numpy&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?logo=pandas&logoColor=white">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white">
     <img alt="ScikitLearn" src="https://img.shields.io/badge/ScikitLearn-0078D7?logo=scikit-learn&logoColor=white">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white">
     <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
 </p>
@@ -130,9 +127,8 @@ if __name__ == "__main__":
 ### ⛈️ Cloud Platforms
 
 <p>
-    <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?logo=Snowflake&logoColor=white">
-    <img alt="Bigquery" src="https://img.shields.io/badge/BigQuery-669DF6?logo=Google-BigQuery&logoColor=white">
     <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?logo=Databricks&logoColor=white">
+    <img alt="Bigquery" src="https://img.shields.io/badge/BigQuery-669DF6?logo=Google-BigQuery&logoColor=white">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?logo=Google-Cloud&logoColor=white">
 </p>
 
@@ -153,16 +149,17 @@ if __name__ == "__main__":
     <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white">
-    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?logo=Terraform&logoColor=white">
+    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white">
+    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=Grafana&logoColor=white">
 </p>
 
 ### 💻 Workspace and Tools
 
 <p>
     <img alt="Ubundu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white">
     <img alt="Gradle" src="https://img.shields.io/badge/Gradle-575757?logo=Gradle&logoColor=white">
-    <img alt="Dbt" src="https://img.shields.io/badge/Dbt-FF694B?logo=dbt&logoColor=white">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white">
+    <img alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-575757?logo=IntelliJ-IDEA&logoColor=white">
     <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?logo=Neovim&logoColor=white">
 </p>
 
