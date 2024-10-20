@@ -92,12 +92,14 @@ if __name__ == "__main__":
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-E34F26?logo=java&logoColor=white">
     <img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?logo=Scala&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&logoColor=white">
 </p>
 
 ### 💥 Backend Development
 
 <p>
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=white">
+    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?logo=GraphQL&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
 </p>
 
@@ -176,7 +178,7 @@ if __name__ == "__main__":
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,elixir,sql,vue,c,ruby,css,c%23,c%2b%2b,html,go,xml,sass,ejs,r,scss,typescript,javascript,tex,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,elixir,sql,vue,c,ruby,css,c%23,c%2b%2b,html,xml,sass,ejs,r,scss,typescript,javascript,tex,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
