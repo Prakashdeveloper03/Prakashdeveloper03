@@ -91,7 +91,6 @@ if __name__ == "__main__":
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-E34F26?logo=java&logoColor=white">
-    <img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?logo=Scala&logoColor=white">
     <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&logoColor=white">
 </p>
 
@@ -99,7 +98,6 @@ if __name__ == "__main__":
 
 <p>
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=white">
-    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?logo=GraphQL&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
 </p>
 
@@ -151,8 +149,6 @@ if __name__ == "__main__":
     <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white">
-    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white">
-    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=Grafana&logoColor=white">
 </p>
 
 ### 💻 Workspace and Tools
