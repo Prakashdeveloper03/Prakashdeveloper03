@@ -29,11 +29,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#1](https://github.com/Prakashdeveloper03/Practice-Pandas/issues/1) in [Prakashdeveloper03/Practice-Pandas](https://github.com/Prakashdeveloper03/Practice-Pandas)
-2. ❗ Opened issue [#1](https://github.com/Prakashdeveloper03/Practice-Pandas/issues/1) in [Prakashdeveloper03/Practice-Pandas](https://github.com/Prakashdeveloper03/Practice-Pandas)
-3. 🎉 Merged PR [#3](https://github.com/Prakashdeveloper03/Neetcode-150/pull/3) in [Prakashdeveloper03/Neetcode-150](https://github.com/Prakashdeveloper03/Neetcode-150)
-4. 💪 Opened PR [#3](https://github.com/Prakashdeveloper03/Neetcode-150/pull/3) in [Prakashdeveloper03/Neetcode-150](https://github.com/Prakashdeveloper03/Neetcode-150)
-5. 🎉 Merged PR [#2](https://github.com/Prakashdeveloper03/Neetcode-150/pull/2) in [Prakashdeveloper03/Neetcode-150](https://github.com/Prakashdeveloper03/Neetcode-150)
+1. 🎉 Merged PR [#1](https://github.com/Prakashdeveloper03/Freaks-Sheet/pull/1) in [Prakashdeveloper03/Freaks-Sheet](https://github.com/Prakashdeveloper03/Freaks-Sheet)
+2. 💪 Opened PR [#1](https://github.com/Prakashdeveloper03/Freaks-Sheet/pull/1) in [Prakashdeveloper03/Freaks-Sheet](https://github.com/Prakashdeveloper03/Freaks-Sheet)
+3. 🔒 Closed issue [#1](https://github.com/Prakashdeveloper03/Practice-Pandas/issues/1) in [Prakashdeveloper03/Practice-Pandas](https://github.com/Prakashdeveloper03/Practice-Pandas)
+4. ❗ Opened issue [#1](https://github.com/Prakashdeveloper03/Practice-Pandas/issues/1) in [Prakashdeveloper03/Practice-Pandas](https://github.com/Prakashdeveloper03/Practice-Pandas)
+5. 🎉 Merged PR [#3](https://github.com/Prakashdeveloper03/Neetcode-150/pull/3) in [Prakashdeveloper03/Neetcode-150](https://github.com/Prakashdeveloper03/Neetcode-150)
 <!--END_SECTION:activity-->
 
 <h3>A little more about me...</h3>
