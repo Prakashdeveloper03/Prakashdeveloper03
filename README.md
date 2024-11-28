@@ -91,24 +91,13 @@ if __name__ == "__main__":
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-E34F26?logo=java&logoColor=white">
-    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
-</p>
-
-### 💥 Frontend Development
-
-<p>
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white">
-    <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=Sass&logoColor=white">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=Bootstrap&logoColor=white">
-    <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=Tailwind-CSS&logoColor=white">
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue-4FC08D.svg?logo=vuedotjs&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&logoColor=white">
 </p>
 
 ### 💥 Backend Development
 
 <p>
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=white">
-    <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82.svg?logo=nuxtdotjs&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
 </p>
 
@@ -119,7 +108,6 @@ if __name__ == "__main__":
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?logo=pandas&logoColor=white">
     <img alt="ScikitLearn" src="https://img.shields.io/badge/ScikitLearn-0078D7?logo=scikit-learn&logoColor=white">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white">
     <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
 </p>
@@ -177,7 +165,7 @@ if __name__ == "__main__":
 <details open>
   <summary>GitHub Profile Stats</summary>
   <br/>
-    <img width="46%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Prakashdeveloper03&theme=radical&show_icons=true&hide_border=true" />
+    <img width="46%" alt="Prakashdeveloper03's stats" src="https://github-readme-stats.vercel.app/api?username=Prakashdeveloper03&theme=radical&show_icons=true&hide_border=true" />
     <img width="49%" alt="Prakashdeveloper03's streak" src="https://streak-stats.demolab.com/?user=Prakashdeveloper03&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   <br/>
 </details>
@@ -186,7 +174,7 @@ if __name__ == "__main__":
   <summary>GitHub Languages Stats</summary>
   <br/>
   <p align="center">
-    <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,elixir,sql,ruby,css,c%23,go,html,xml,sass,ejs,r,scss,c,c%2b%2b,javascript,tex,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,elixir,sql,ruby,css,c%23,html,xml,sass,ejs,r,scss,c,c%2b%2b,javascript,vue,tex,markdown,typescript,javascript&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   </p>
   <br/>
 </details>
