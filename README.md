@@ -66,7 +66,7 @@ async def get_education():
     education = [
         {"College": "College of Engineering, Guindy", "Year": [2022, 2023, 2024]},
         {"College": "Apollo arts and science college", "Year": [2019, 2020, 2021, 2022]},
-        {"School": "Seventh Day Adventist Matriculation Higher Secondary School", "Year": [2017, 2018, 2019]}
+          {"School": "Seventh Day Adventist Matriculation Higher Secondary School", "Year": [2017, 2018, 2019]}
     ]
     return education
 
@@ -91,7 +91,7 @@ if __name__ == "__main__":
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-E34F26?logo=java&logoColor=white">
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2b%2b&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C++-9C033A?logo=c%2b%2b&logoColor=white">
 </p>
 
 ### 💥 Web Development
@@ -109,6 +109,7 @@ if __name__ == "__main__":
     <img alt="ScikitLearn" src="https://img.shields.io/badge/ScikitLearn-0078D7?logo=scikit-learn&logoColor=white">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">
     <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
+    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
 </p>
 
@@ -135,8 +136,8 @@ if __name__ == "__main__":
 ### ❄️ Data Engineering
 
 <p>
-    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=Apache-Spark&logoColor=white">
     <img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-225593?logo=Apache-Hadoop&logoColor=white">
+    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=Apache-Spark&logoColor=white">
     <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=Apache-Airflow&logoColor=white">
     <img alt="Apache Flink" src="https://img.shields.io/badge/Apache%20Flink-E6526F?logo=Apache-Flink&logoColor=white">
     <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=Apache-Kafka&logoColor=white">
@@ -148,6 +149,8 @@ if __name__ == "__main__":
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white">
+    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white">
+    <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?logo=MLflow&logoColor=white">
 </p>
 
 ### 💻 Workspace and Tools
