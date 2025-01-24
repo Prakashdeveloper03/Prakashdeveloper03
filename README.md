@@ -91,7 +91,7 @@ if __name__ == "__main__":
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-E34F26?logo=java&logoColor=white">
-    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C++-9C033A?logo=c%2B%2B&logoColor=white">
 </p>
 
 ### 💥 Web Development
@@ -127,8 +127,7 @@ if __name__ == "__main__":
 ### ⛈️ Cloud Platforms
 
 <p>
-    <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?logo=Databricks&logoColor=white">
-    <img alt="Bigquery" src="https://img.shields.io/badge/BigQuery-669DF6?logo=Google-BigQuery&logoColor=white">
+    <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?logo=Amazon-Web-Services&logoColor=white">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?logo=Google-Cloud&logoColor=white">
 </p>
 
@@ -167,16 +166,7 @@ if __name__ == "__main__":
   <summary>GitHub Profile Stats</summary>
   <br/>
     <img width="46%" alt="Prakashdeveloper03's stats" src="https://github-readme-stats.vercel.app/api?username=Prakashdeveloper03&theme=radical&show_icons=true&hide_border=true" />
-    <img width="49%" alt="Prakashdeveloper03's streak" src="https://streak-stats.demolab.com/?user=Prakashdeveloper03&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-  <br/>
-</details>
-
-<details open>
-  <summary>GitHub Languages Stats</summary>
-  <br/>
-  <p align="center">
-    <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,elixir,sql,ruby,css,c%23,html,xml,sass,ejs,r,scss,c,c%2b%2b,scala,vue,tex,javascript,typescript,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
-  </p>
+    <img width="41.5%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,elixir,sql,ruby,css,c%23,html,xml,sass,ejs,r,scss,c,go,scala,vue,tex,javascript,typescript,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   <br/>
 </details>
 
