@@ -127,7 +127,6 @@ if __name__ == "__main__":
 ### ⛈️ Cloud Platforms
 
 <p>
-    <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?logo=Amazon-Web-Services&logoColor=white">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?logo=Google-Cloud&logoColor=white">
 </p>
 
@@ -136,8 +135,8 @@ if __name__ == "__main__":
 <p>
     <img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-225593?logo=Apache-Hadoop&logoColor=white">
     <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=Apache-Spark&logoColor=white">
+    <img alt="Apache Flink" src="https://img.shields.io/badge/Apache%20Flink-E6526F.svg?logo=Apache-Flink&logoColor=white">
     <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=Apache-Airflow&logoColor=white">
-    <img alt="Apache Flink" src="https://img.shields.io/badge/Apache%20Flink-E6526F?logo=Apache-Flink&logoColor=white">
     <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=Apache-Kafka&logoColor=white">
 </p>
 
@@ -147,8 +146,6 @@ if __name__ == "__main__":
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white">
-    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white">
-    <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?logo=MLflow&logoColor=white">
 </p>
 
 ### 💻 Workspace and Tools
