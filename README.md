@@ -146,6 +146,7 @@ if __name__ == "__main__":
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white">
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?logo=Terraform&logoColor=white">
 </p>
 
 ### 💻 Workspace and Tools
