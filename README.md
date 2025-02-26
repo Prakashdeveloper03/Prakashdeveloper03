@@ -91,7 +91,7 @@ if __name__ == "__main__":
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-E34F26?logo=java&logoColor=white">
-    <img alt="C++" src="https://img.shields.io/badge/C++-9C033A?logo=c%2B%2B&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&logoColor=white">
 </p>
 
 ### 💥 Web Development
@@ -146,7 +146,6 @@ if __name__ == "__main__":
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white">
-    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?logo=Terraform&logoColor=white">
 </p>
 
 ### 💻 Workspace and Tools
@@ -164,7 +163,7 @@ if __name__ == "__main__":
   <summary>GitHub Profile Stats</summary>
   <br/>
     <img width="46%" alt="Prakashdeveloper03's stats" src="https://github-readme-stats.vercel.app/api?username=Prakashdeveloper03&theme=radical&show_icons=true&hide_border=true" />
-    <img width="41.5%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,elixir,sql,ruby,css,c%23,html,xml,sass,ejs,r,scss,c,go,scala,vue,tex,javascript,typescript,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img width="41.5%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,elixir,sql,ruby,c%2b%2b,css,c%23,html,xml,sass,ejs,r,scss,c,scala,vue,tex,javascript,typescript,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   <br/>
 </details>
 
