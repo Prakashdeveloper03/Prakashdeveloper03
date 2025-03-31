@@ -2,10 +2,9 @@
 
 <h1 align="center"> வணக்கம் (Vanakkam), I am Siva Prakash </h1>
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?lines=Machine%20Learning;Data%20Engineering;Backend%20Development;Always%20learning&width=450&height=75&font=Ubuntu+Mono&weight=1000&pause=75&color=3ce3ce&center=true&size=19">
+ <img src="https://readme-typing-svg.demolab.com?lines=Machine%20Learning;Backend%20Development;Always%20learning&width=450&height=75&font=Ubuntu+Mono&weight=1000&pause=75&color=3ce3ce&center=true&size=19">
 </p>
-<h3 align="center">I'm an Data Enthusiast from India ❤️</h3><br>
-<p align="center">I am a self-motivated professional holding a Master of Computer Applications. With a strong focus on developing data-driven applications, I have cultivated expertise in software engineering. Currently, my work spans projects encompassing both backend development and data engineering domains. I am eager to apply my skills and experience to deliver impactful contributions within a dynamic and challenging work environment.</p><br>
+<h3 align="center">I'm a Software Engineer from India ❤️</h3><br> <p align="center">I am a self-motivated professional holding a Master of Computer Applications. With a strong foundation in software engineering, I specialize in building scalable and efficient applications. My experience spans backend development, system design, and working with various technologies to create robust software solutions. I am eager to apply my skills and expertise to solve complex challenges in a dynamic and fast-paced work environment.</p><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-Welcome-white?style=flat&amp;logo=github&amp;color=3ce3cf" alt="PRs Welcome">
@@ -19,9 +18,9 @@
 
 <h2>😉 About Me : </h2>
 
-- 🔭 I’m currently working on **Data Engineering**
+- 🔭 I’m currently working on **Backend Development**
 - 🌱 I’m currently learning **Cloud Computing**
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 👯 I’m looking to collaborate on **Backend Development**
 - 😄 Pronouns : **Siva/Prakash**
 - ⚡ Fun fact : **I listen to music atleast 30 mins/day**
 
@@ -77,7 +76,6 @@ if __name__ == "__main__":
 
 <h2 align="left">📱 Connect with Me :</h2>
 <p>
-  <a href="https://www.linkedin.com/in/prakashdeveloper"><img src="https://img.shields.io/badge/Linkedin-0e76a8?logo=linkedin&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/prakashdeveloper"><img src="https://img.shields.io/badge/Hackerrank-25A162?logo=hackerrank&logoColor=white"/></a>
   <a href="https://leetcode.com/Prakashdeveloper/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white"/></a>
   <a href="https://auth.geeksforgeeks.org/user/prakashdeveloper03/practice"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white"/></a>
@@ -91,7 +89,7 @@ if __name__ == "__main__":
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-E34F26?logo=java&logoColor=white">
-    <img alt="C++" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&logoColor=white">
 </p>
 
 ### 💥 Web Development
@@ -127,30 +125,24 @@ if __name__ == "__main__":
 ### ⛈️ Cloud Platforms
 
 <p>
+     <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?logo=Amazon-Web-Services&logoColor=white">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?logo=Google-Cloud&logoColor=white">
-</p>
-
-### ❄️ Data Engineering
-
-<p>
-    <img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-225593?logo=Apache-Hadoop&logoColor=white">
-    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=Apache-Spark&logoColor=white">
-    <img alt="Apache Flink" src="https://img.shields.io/badge/Apache%20Flink-E6526F.svg?logo=Apache-Flink&logoColor=white">
-    <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=Apache-Airflow&logoColor=white">
-    <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=Apache-Kafka&logoColor=white">
 </p>
 
 ### ⛽ Devops
 
 <p>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-575757.svg?logo=GitHub&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white">
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Terraform-844FBA.svg?logo=Terraform&logoColor=white">
 </p>
 
 ### 💻 Workspace and Tools
 
 <p>
+    <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-575757?logo=Apache-Kafka&logoColor=white">
     <img alt="Ubundu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
     <img alt="Gradle" src="https://img.shields.io/badge/Gradle-575757?logo=Gradle&logoColor=white">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white">
