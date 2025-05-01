@@ -65,13 +65,9 @@ async def get_education():
     education = [
         {"College": "College of Engineering, Guindy", "Year": [2022, 2023, 2024]},
         {"College": "Apollo arts and science college", "Year": [2019, 2020, 2021, 2022]},
-          {"School": "Seventh Day Adventist Matriculation Higher Secondary School", "Year": [2017, 2018, 2019]}
+        {"School": "Seventh Day Adventist Matriculation Higher Secondary School", "Year": [2017, 2018, 2019]}
     ]
     return education
-
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=5000)
 ```
 
 <h2 align="left">📱 Connect with Me :</h2>
@@ -125,7 +121,7 @@ if __name__ == "__main__":
 ### ⛈️ Cloud Platforms
 
 <p>
-     <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?logo=Amazon-Web-Services&logoColor=white">
+    <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?logo=Amazon-Web-Services&logoColor=white">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?logo=Google-Cloud&logoColor=white">
 </p>
 
