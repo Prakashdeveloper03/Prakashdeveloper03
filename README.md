@@ -93,6 +93,7 @@ async def get_education():
 <p>
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-575757?logo=Flask&logoColor=white">
 </p>
 
 ### 🧩 Machine Learning
@@ -116,7 +117,6 @@ async def get_education():
     <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?logo=Apache-Cassandra&logoColor=white">
     <img alt="TimescaleDB" src="https://img.shields.io/badge/TimescaleDB-EE4C2C?logo=Timescale&logoColor=white">
     <img alt="Neo4J" src="https://img.shields.io/badge/Neo4j-4581C3?logo=Neo4j&logoColor=white">
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?logo=Elasticsearch&logoColor=white">
 </p>
 
 ### ⛈️ Cloud Platforms
@@ -131,9 +131,10 @@ async def get_education():
 <p>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-575757.svg?logo=GitHub&logoColor=white">
+    <img alt="Github Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=GitHub-Actions&logoColor=white">
+    <img alt="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-575757?logo=GitHub-Pages&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Terraform-844FBA.svg?logo=Terraform&logoColor=white">
 </p>
 
 ### 💻 Workspace and Tools
