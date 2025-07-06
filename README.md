@@ -2,9 +2,9 @@
 
 <h1 align="center"> வணக்கம் (Vanakkam), I am Siva Prakash </h1>
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?lines=Machine%20Learning;Backend%20Development;Always%20learning&width=450&height=75&font=Ubuntu+Mono&weight=1000&pause=75&color=3ce3ce&center=true&size=19">
+ <img src="https://readme-typing-svg.demolab.com?lines=Machine%20Learning;Backend%20Development;Data%20Engineering;Always%20learning&width=450&height=75&font=Ubuntu+Mono&weight=1200&pause=75&color=3ce3ce&center=true&size=21">
 </p>
-<h3 align="center">I'm a Software Engineer from India ❤️</h3><br> <p align="center">I am a self-motivated professional holding a Master of Computer Applications. With a strong foundation in software engineering, I specialize in building scalable and efficient applications. My experience spans backend development, system design, and working with various technologies to create robust software solutions. I am eager to apply my skills and expertise to solve complex challenges in a dynamic and fast-paced work environment.</p><br>
+<h3 align="center">I'm a Software Engineer from India ❤️</h3><br> <p align="center">I am a self-motivated professional holding a Master of Computer Applications. With a strong foundation in software engineering, I specialize in building scalable and efficient applications. My experience spans data engineering, backend development, machine learning, and working with various technologies to create robust software solutions. I am eager to apply my skills and expertise to solve complex challenges in a dynamic and fast-paced work environment.</p><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-Welcome-white?style=flat&amp;logo=github&amp;color=3ce3cf" alt="PRs Welcome">
@@ -18,9 +18,9 @@
 
 <h2>😉 About Me : </h2>
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **Data Engineering**
 - 🌱 I’m currently learning **Cloud Computing**
-- 👯 I’m looking to collaborate on **Backend Development**
+- 👯 I’m looking to collaborate on **Data Engineering**
 - 😄 Pronouns : **Siva/Prakash**
 - ⚡ Fun fact : **I listen to music atleast 30 mins/day**
 
@@ -85,7 +85,7 @@ async def get_education():
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-E34F26?logo=java&logoColor=white">
-    <img alt="C++" src="https://img.shields.io/badge/C++-9C033A?logo=c%2B%2B&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white">
 </p>
 
 ### 💥 Web Development
@@ -93,7 +93,7 @@ async def get_education():
 <p>
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-575757?logo=Flask&logoColor=white">
+    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white">
 </p>
 
 ### 🧩 Machine Learning
@@ -101,8 +101,9 @@ async def get_education():
 <p>
     <img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?logo=numpy&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?logo=pandas&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/Polars-0075FF?logo=Polars&logoColor=white">
     <img alt="ScikitLearn" src="https://img.shields.io/badge/ScikitLearn-0078D7?logo=scikit-learn&logoColor=white">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=OpenCV&logoColor=white">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">
     <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
@@ -113,16 +114,20 @@ async def get_education():
 <p>
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
+    <img alt="Bigquery" src="https://img.shields.io/badge/BigQuery-669DF6?logo=Google-BigQuery&logoColor=white">
     <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?logo=Redis&logoColor=white">
     <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?logo=Apache-Cassandra&logoColor=white">
     <img alt="TimescaleDB" src="https://img.shields.io/badge/TimescaleDB-EE4C2C?logo=Timescale&logoColor=white">
     <img alt="Neo4J" src="https://img.shields.io/badge/Neo4j-4581C3?logo=Neo4j&logoColor=white">
 </p>
 
-### ⛈️ Cloud Platforms
+### ⛈️ Big Data & Cloud Platforms
 
-<p>
-    <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?logo=Amazon-Web-Services&logoColor=white">
+<p>  
+    <img alt="Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=Apache-Spark&logoColor=white">
+    <img alt="Flink" src="https://img.shields.io/badge/Apache%20Flink-E6526F?logo=Apache-Flink&logoColor=white">
+    <img alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=Apache-Airflow&logoColor=white">
+    <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-575757?logo=Apache-Kafka&logoColor=white">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?logo=Google-Cloud&logoColor=white">
 </p>
 
@@ -130,22 +135,21 @@ async def get_education():
 
 <p>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-575757.svg?logo=GitHub&logoColor=white">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-575757?logo=GitHub&logoColor=white">
     <img alt="Github Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=GitHub-Actions&logoColor=white">
-    <img alt="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-575757?logo=GitHub-Pages&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white">
+    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?logo=Ansible&logoColor=white">
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?logo=Terraform&logoColor=white">
 </p>
 
 ### 💻 Workspace and Tools
 
 <p>
-    <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-575757?logo=Apache-Kafka&logoColor=white">
     <img alt="Ubundu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
     <img alt="Gradle" src="https://img.shields.io/badge/Gradle-575757?logo=Gradle&logoColor=white">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white">
     <img alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-575757?logo=IntelliJ-IDEA&logoColor=white">
-    <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?logo=Neovim&logoColor=white">
 </p>
 
 <h2>📈 Statistics and Languages :</h2>
@@ -153,7 +157,7 @@ async def get_education():
   <summary>GitHub Profile Stats</summary>
   <br/>
     <img width="46%" alt="Prakashdeveloper03's stats" src="https://github-readme-stats.vercel.app/api?username=Prakashdeveloper03&theme=radical&show_icons=true&hide_border=true" />
-    <img width="41.5%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,elixir,sql,ruby,go,css,c%23,html,xml,sass,ejs,r,scss,c,scala,vue,tex,javascript,typescript,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img width="41.5%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,elixir,sql,ruby,c%2b%2b,css,c%23,html,xml,sass,ejs,r,scss,c,scala,vue,tex,javascript,typescript,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   <br/>
 </details>
 
