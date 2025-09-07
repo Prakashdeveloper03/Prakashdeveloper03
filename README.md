@@ -28,8 +28,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#5](https://github.com/Prakashdeveloper03/Prakashdeveloper03.github.io/issues/5) in [Prakashdeveloper03/Prakashdeveloper03.github.io](https://github.com/Prakashdeveloper03/Prakashdeveloper03.github.io)
-2. 💪 Opened PR [#1](https://github.com/Prakashdeveloper03/Leetcode-150/pull/1) in [Prakashdeveloper03/Leetcode-150](https://github.com/Prakashdeveloper03/Leetcode-150)
+1. 🎉 Merged PR [#1](https://github.com/Prakashdeveloper03/Resume-Cli/pull/1) in [Prakashdeveloper03/Resume-Cli](https://github.com/Prakashdeveloper03/Resume-Cli)
+2. 💪 Opened PR [#1](https://github.com/Prakashdeveloper03/Resume-Cli/pull/1) in [Prakashdeveloper03/Resume-Cli](https://github.com/Prakashdeveloper03/Resume-Cli)
 3. 🎉 Merged PR [#1](https://github.com/Prakashdeveloper03/Freaks-Sheet/pull/1) in [Prakashdeveloper03/Freaks-Sheet](https://github.com/Prakashdeveloper03/Freaks-Sheet)
 4. 💪 Opened PR [#1](https://github.com/Prakashdeveloper03/Freaks-Sheet/pull/1) in [Prakashdeveloper03/Freaks-Sheet](https://github.com/Prakashdeveloper03/Freaks-Sheet)
 5. 🎉 Merged PR [#3](https://github.com/Prakashdeveloper03/Neetcode-150/pull/3) in [Prakashdeveloper03/Neetcode-150](https://github.com/Prakashdeveloper03/Neetcode-150)
