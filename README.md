@@ -91,9 +91,7 @@ async def get_education():
 ### 💥 Web Development
 
 <p>
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white">
-    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white">
 </p>
 
 ### 🧩 Machine Learning
@@ -107,6 +105,8 @@ async def get_education():
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">
     <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
+    <img alt="Langchain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=LangChain&logoColor=white">
+   
 </p>
 
 ### 🗄️ Databases
@@ -119,13 +119,13 @@ async def get_education():
     <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?logo=Apache-Cassandra&logoColor=white">
     <img alt="TimescaleDB" src="https://img.shields.io/badge/TimescaleDB-EE4C2C?logo=Timescale&logoColor=white">
     <img alt="Neo4J" src="https://img.shields.io/badge/Neo4j-4581C3?logo=Neo4j&logoColor=white">
+    <img alt="Milvus" src="https://img.shields.io/badge/Milvus-00A1EA?logo=Milvus&logoColor=white">
 </p>
 
 ### ⛈️ Big Data & Cloud Platforms
 
 <p>  
     <img alt="Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=Apache-Spark&logoColor=white">
-    <img alt="Flink" src="https://img.shields.io/badge/Apache%20Flink-E6526F?logo=Apache-Flink&logoColor=white">
     <img alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=Apache-Airflow&logoColor=white">
     <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-575757?logo=Apache-Kafka&logoColor=white">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?logo=Google-Cloud&logoColor=white">
@@ -139,8 +139,9 @@ async def get_education():
     <img alt="Github Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=GitHub-Actions&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white">
-    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?logo=Ansible&logoColor=white">
     <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?logo=Terraform&logoColor=white">
+    <img alt="DVC" src="https://img.shields.io/badge/DVC-13ADC7.svg?logo=DVC&logoColor=white">
+    <img alt="Mlflow" src="https://img.shields.io/badge/MLflow-0194E2?logo=MLflow&logoColor=white">
 </p>
 
 ### 💻 Workspace and Tools
