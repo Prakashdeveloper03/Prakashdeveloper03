@@ -106,7 +106,6 @@ async def get_education():
     <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
     <img alt="Langchain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=LangChain&logoColor=white">
-   
 </p>
 
 ### 🗄️ Databases
@@ -125,8 +124,7 @@ async def get_education():
 ### ⛈️ Big Data & Cloud Platforms
 
 <p>  
-    <img alt="Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=Apache-Spark&logoColor=white">
-    <img alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=Apache-Airflow&logoColor=white">
+    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=Apache-Spark&logoColor=white">
     <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-575757?logo=Apache-Kafka&logoColor=white">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?logo=Google-Cloud&logoColor=white">
 </p>
@@ -157,8 +155,8 @@ async def get_education():
 <details open>
   <summary>GitHub Profile Stats</summary>
   <br/>
-    <img width="46%" alt="Prakashdeveloper03's stats" src="https://github-readme-stats.vercel.app/api?username=Prakashdeveloper03&theme=radical&show_icons=true&hide_border=true" />
-    <img width="41.5%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,elixir,sql,ruby,c%2b%2b,css,c%23,html,xml,sass,ejs,r,scss,c,scala,vue,tex,javascript,typescript,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
+    <img width="49%" alt="Prakashdeveloper03's stats" src="https://github-readme-stats.vercel.app/api?username=Prakashdeveloper03&theme=radical&show_icons=true&hide_border=true" />
+    <img width="49%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,elixir,sql,ruby,c%2b%2b,css,c%23,html,xml,sass,ejs,r,scss,c,scala,vue,tex,javascript,typescript,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
   <br/>
 </details>
 
