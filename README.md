@@ -152,13 +152,6 @@ async def get_education():
 </p>
 
 <h2>📈 Statistics and Languages :</h2>
-<details open>
-  <summary>GitHub Profile Stats</summary>
-  <br/>
-    <img width="49%" alt="Prakashdeveloper03's stats" src="https://github-readme-stats.vercel.app/api?username=Prakashdeveloper03&theme=radical&show_icons=true&hide_border=true" />
-    <img width="49%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=jupyter%20notebook,elixir,sql,ruby,c%2b%2b,css,c%23,html,xml,sass,ejs,r,scss,c,scala,vue,tex,javascript,typescript,markdown&langs_count=4&layout=compact&theme=radical&show_icons=true&hide_border=true"/>
-  <br/>
-</details>
 
 <details open>
   <summary>GitHub Trophy Stats</summary>
