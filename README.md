@@ -35,41 +35,6 @@
 5. 🎉 Merged PR [#3](https://github.com/Prakashdeveloper03/Neetcode-150/pull/3) in [Prakashdeveloper03/Neetcode-150](https://github.com/Prakashdeveloper03/Neetcode-150)
 <!--END_SECTION:activity-->
 
-<h3>A little more about me...</h3>
-
-```py
-from fastapi import FastAPI, HTTPException, status
-from datetime import datetime
-
-app = FastAPI()
-
-@app.get("/name", status_code=status.HTTP_200_OK)
-async def get_name():
-    return {"Name": "Siva Prakash"}
-
-@app.get("/age", status_code=status.HTTP_200_OK)
-async def get_age():
-    birth_date = datetime(2001, 3, 10)
-    current_year = datetime.now().year
-    age = current_year - birth_date.year
-    if datetime.now() < datetime(current_year, 3, 10):
-        age -= 1
-    return {"Age": age}
-
-@app.get("/description", status_code=status.HTTP_200_OK)
-async def get_description():
-    return {"Description": ["Passionate", "Optimistic", "Energetic", "Team Player"]}
-
-@app.get("/education", status_code=status.HTTP_200_OK)
-async def get_education():
-    education = [
-        {"College": "College of Engineering, Guindy", "Year": [2022, 2023, 2024]},
-        {"College": "Apollo arts and science college", "Year": [2019, 2020, 2021, 2022]},
-        {"School": "Seventh Day Adventist Matriculation Higher Secondary School", "Year": [2017, 2018, 2019]}
-    ]
-    return education
-```
-
 <h2 align="left">📱 Connect with Me :</h2>
 <p>
   <a href="https://www.hackerrank.com/prakashdeveloper"><img src="https://img.shields.io/badge/Hackerrank-25A162?logo=hackerrank&logoColor=white"/></a>
