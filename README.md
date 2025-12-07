@@ -29,8 +29,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Prakashdeveloper03/Resume-Cli/pull/1) in [Prakashdeveloper03/Resume-Cli](https://github.com/Prakashdeveloper03/Resume-Cli)
-2. 💪 Opened PR [#1](https://github.com/Prakashdeveloper03/Resume-Cli/pull/1) in [Prakashdeveloper03/Resume-Cli](https://github.com/Prakashdeveloper03/Resume-Cli)
+1. ❌ Merged PR [#1](undefined) in [Prakashdeveloper03/x64go](https://github.com/Prakashdeveloper03/x64go)
+2. 💪 Opened PR [#1](undefined) in [Prakashdeveloper03/x64go](https://github.com/Prakashdeveloper03/x64go)
 3. 🎉 Merged PR [#1](https://github.com/Prakashdeveloper03/Freaks-Sheet/pull/1) in [Prakashdeveloper03/Freaks-Sheet](https://github.com/Prakashdeveloper03/Freaks-Sheet)
 4. 💪 Opened PR [#1](https://github.com/Prakashdeveloper03/Freaks-Sheet/pull/1) in [Prakashdeveloper03/Freaks-Sheet](https://github.com/Prakashdeveloper03/Freaks-Sheet)
 5. 🎉 Merged PR [#3](https://github.com/Prakashdeveloper03/Neetcode-150/pull/3) in [Prakashdeveloper03/Neetcode-150](https://github.com/Prakashdeveloper03/Neetcode-150)
