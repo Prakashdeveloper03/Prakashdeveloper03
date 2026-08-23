@@ -8,68 +8,55 @@
 </p>
 
 <p align="center">
-  I build production-grade AI platforms and resilient Python backend systems—spanning LLM applications, computer vision, RAG, and event-driven architectures.
-</p>
-
-<p align="center">
   <a href="https://github.com/Prakashdeveloper03">GitHub</a> ·
   <a href="https://www.linkedin.com/in/prakashdeveloper">LinkedIn</a> ·
   <a href="mailto:sivaprakash.developer01@gmail.com">Email</a> ·
   <a href="https://prakashdeveloper03.github.io/">Portfolio</a>
 </p>
 
-## Impact at a glance
+## About me
 
-- **2+ years** building production AI applications and Python backend systems.
-- Built an event-driven image-validation platform processing **210K+ images per day**.
-- Delivered **65+ production image-validation workflows** for face verification, content safety, deepfake detection, image quality, and watermark validation.
-- Built a receipt-intelligence platform that processed **1M+ receipts** with **98.4%** structured-data extraction accuracy.
-- Reduced GPU infrastructure cost by approximately **US$2K/month** through a CPU-based image-enhancement design.
+AI & Backend Engineer with 2+ years of experience building production AI applications and Python backend systems. I work on LLM applications, RAG, agentic AI, computer vision, and scalable event-driven services. I enjoy building reliable systems with thoughtful API design, cloud infrastructure, and production observability.
 
-## Current role
+## Skills & technologies
 
-### Software Engineer — AI Platform, Matrimony.com
+### Programming & backend
 
-*Feb 2026–Present · Chennai, India*
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white">
+</p>
 
-Building scalable AI-platform services for image validation and vision workloads. My work includes independently scalable inference and worker services on **AWS ECS, SQS, S3, and PostgreSQL**; a centralized VLM router across **AWS Bedrock, Groq, DeepInfra, and Featherless**; and end-to-end production observability with **OpenTelemetry, Prometheus, Grafana, Tempo, and Loki**.
+### AI engineering
 
-## Selected work
+<p>
+  <img alt="LLMs" src="https://img.shields.io/badge/LLMs-412991?logo=openai&logoColor=white">
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-4B32C3?logo=vectorworks&logoColor=white">
+  <img alt="Agentic AI" src="https://img.shields.io/badge/Agentic_AI-1C3C3C?logo=langchain&logoColor=white">
+  <img alt="MCP" src="https://img.shields.io/badge/MCP%2FFastMCP-000000?logo=fastapi&logoColor=white">
+  <img alt="vLLM" src="https://img.shields.io/badge/vLLM-202020?logo=nvidia&logoColor=white">
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black">
+  <img alt="Computer Vision" src="https://img.shields.io/badge/Computer_Vision-5C3EE8?logo=opencv&logoColor=white">
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">
+</p>
 
-### RetailGPT — Document Intelligence
+### Cloud, delivery & observability
 
-*FastAPI · Gemma-2B · QLoRA/PEFT · vLLM · Tesseract OCR · AWS · EKS*
-
-- Built an asynchronous receipt-to-JSON pipeline for a POS provider serving India and the Middle East, processing **1M+ receipts** through an event-driven S3 → EventBridge → SQS → FastAPI architecture.
-- Developed OCR, image preprocessing, a QLoRA-fine-tuned Gemma-2B extraction model, and rule-based post-processing to achieve **98.4%** structured-data extraction accuracy.
-- Optimized self-hosted vLLM inference for **200+ concurrent requests** and **sub-3-second p99 latency**.
-
-### Aone.ai — Multi-Agent GenAI Platform
-
-*Azure AI Foundry · Azure OpenAI · Azure AI Search · FastAPI*
-
-- Built domain-specific AI agents and multi-agent workflows for enterprise use cases.
-- Implemented RAG pipelines with Azure AI Search and Azure Document Intelligence for grounded responses over enterprise content.
-- Integrated Azure AI Speech Services for speech-to-text and text-to-speech interactions.
-- Selected among the **Top 20 solutions** in the *AI for All: Global Impact Challenge* and showcased at the **India AI Impact Summit 2026**.
-
-### Computer Vision & HVAC Automation
-
-*YOLOv8 · OpenCV · Python*
-
-- Built an occupancy-aware computer-vision system across **12 stores**, achieving **91% detection accuracy** from live camera streams.
-- Integrated occupancy predictions with HVAC automation for Domino's Pizza locations in Chennai, reducing energy consumption by approximately **7,300 kWh/month**.
-
-## Skills
-
-| Area | Technologies |
-| --- | --- |
-| **Programming & backend** | Python, SQL, FastAPI, Async Python, REST APIs, microservices, event-driven architecture, PostgreSQL, Redis, Kafka, AWS SQS, OAuth/JWT |
-| **AI engineering** | LLMs, RAG, agentic AI, MCP/FastMCP, tool calling, Qdrant, vLLM, Hugging Face, PEFT/QLoRA, time-series forecasting, computer vision, YOLOv8, OpenCV |
-| **Azure AI services** | Azure AI Foundry, Azure OpenAI, Azure AI Search, Azure AI Speech Services, Azure Document Intelligence |
-| **Cloud & delivery** | AWS (ECS, S3, SQS, EventBridge, RDS, Bedrock, EKS, CloudWatch), Docker, Terraform, GitHub Actions, Kubernetes |
-| **Observability** | OpenTelemetry, Prometheus, Grafana, Tempo, Loki, LangSmith |
-| **Additional** | Linux, Git |
+<p>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white">
+  <img alt="Azure AI" src="https://img.shields.io/badge/Azure_AI-0078D4?logo=microsoftazure&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white">
+  <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?logo=opentelemetry&logoColor=white">
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white">
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white">
+</p>
 
 ## Current interests
 
@@ -78,10 +65,11 @@ Building scalable AI-platform services for image validation and vision workloads
 - Scalable event-driven AI platforms
 - Cloud-native Python backend engineering
 
-## Education & certification
+## Contribution activity
 
-- **Master of Computer Applications**, College of Engineering, Guindy (Anna University), 2022–2024 — CGPA: 7.98
-- **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
+<p align="center">
+  <img width="100%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Prakashdeveloper03&amp;bg_color=0d1117&amp;color=3ce3ce&amp;line=3ce3ce&amp;point=ffffff&amp;area=true&amp;hide_border=true">
+</p>
 
 ## Find me online
 
