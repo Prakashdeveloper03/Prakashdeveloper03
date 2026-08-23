@@ -8,10 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Prakashdeveloper03">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/prakashdeveloper">LinkedIn</a> ·
-  <a href="mailto:sivaprakash.developer01@gmail.com">Email</a> ·
-  <a href="https://prakashdeveloper03.github.io/">Portfolio</a>
+  <a href="https://github.com/Prakashdeveloper03"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/prakashdeveloper"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+  <a href="mailto:sivaprakash.developer01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
+  <a href="https://prakashdeveloper03.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-202020?style=for-the-badge&amp;logo=about.me&amp;logoColor=white"></a>
+  <a href="https://leetcode.com/Prakashdeveloper/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white"></a>
+  <a href="https://www.hackerrank.com/prakashdeveloper"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white"></a>
+  <a href="https://auth.geeksforgeeks.org/user/prakashdeveloper03/practice"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white"></a>
 </p>
 
 ## About me
@@ -70,7 +73,3 @@ AI & Backend Engineer with 2+ years of experience building production AI applica
 <p align="center">
   <img width="100%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Prakashdeveloper03&amp;bg_color=0d1117&amp;color=3ce3ce&amp;line=3ce3ce&amp;point=ffffff&amp;area=true&amp;hide_border=true">
 </p>
-
-## Find me online
-
-[GitHub](https://github.com/Prakashdeveloper03) · [LinkedIn](https://www.linkedin.com/in/prakashdeveloper) · [Portfolio](https://prakashdeveloper03.github.io/) · [LeetCode](https://leetcode.com/Prakashdeveloper/) · [HackerRank](https://www.hackerrank.com/prakashdeveloper) · [GeeksforGeeks](https://auth.geeksforgeeks.org/user/prakashdeveloper03/practice)
