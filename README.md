@@ -9,7 +9,6 @@
 
 <p align="center">
   <a href="https://github.com/Prakashdeveloper03"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/prakashdeveloper"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
   <a href="mailto:sivaprakash.developer01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
   <a href="https://prakashdeveloper03.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-202020?style=for-the-badge&amp;logo=about.me&amp;logoColor=white"></a>
   <a href="https://leetcode.com/Prakashdeveloper/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white"></a>
@@ -50,8 +49,6 @@ AI & Backend Engineer with 2+ years of experience building production AI applica
 ### Cloud, delivery & observability
 
 <p>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white">
-  <img alt="Azure AI" src="https://img.shields.io/badge/Azure_AI-0078D4?logo=microsoftazure&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white">
