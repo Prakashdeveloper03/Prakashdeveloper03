@@ -65,6 +65,13 @@ AI & Backend Engineer with 2+ years of experience building production AI applica
 - Scalable event-driven AI platforms
 - Cloud-native Python backend engineering
 
+## GitHub insights
+
+<p align="center">
+  <img height="170" alt="Siva Prakash's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Prakashdeveloper03&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=3ce3ce&amp;text_color=c9d1d9&amp;icon_color=3ce3ce">
+  <img height="170" alt="Siva Prakash's top programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&amp;layout=donut&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=3ce3ce&amp;text_color=c9d1d9">
+</p>
+
 ## Contribution activity
 
 <p align="center">
